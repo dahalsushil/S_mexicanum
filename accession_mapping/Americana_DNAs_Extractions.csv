@@ -1,0 +1,728 @@
+Accession,Species,Notes,State,Cleaned to 50𝜇l,Qubit reading 1 (ng/uL),Qubit reading 2 (ng/uL),Qubit average,DNA in tube (ng),"uL for 0.5 ug DNA (if over 123 uL, use whole sample)",Amount of HPLC water to add,Normalized (Letter/# for rack for yes),Library made,Note,Old Qubit 1 ,Old Qubit 2,Collector,Collector number,Locality,County,State,Country,Latitude,Longitude,Source,GPS source,Verbatim latitude,Verbatim longitude
+A1-1,Heuchera americana var. americana,,AL,,5.32,4.98,5.15,633.45,97.08737864,Vacuum centrifuge then add 25 uL,x,,,,,,,,,,,33.725,-85.600833,,,"33°43'30"" N","85°36'3"" W"
+A1-2,Heuchera americana var. americana,,AL,Yes,5.34,5.5,5.42,666.66,Use whole sample,Vacuum centrifuge then add 25 uL,D,1/31/2020,,,,,,,,,,33.725,-85.600833,,,"33°43'30"" N","85°36'3"" W"
+A1-2,Heuchera americana var. americana,,AL,,4.81,4.73,4.77,586.71,104.8218029,Vacuum centrifuge then add 25 uL,,duplicate,,,,,,,,,,33.725,-85.600833,,,"33°43'30"" N","85°36'3"" W"
+A1-3,Heuchera americana var. americana,,AL,,3.75,3.61,3.68,452.64,Use whole sample,Vacuum centrifuge then add 25 uL,x,,,,,,,,,,,33.725,-85.600833,,,"33°43'30"" N","85°36'3"" W"
+A1-4,Heuchera americana var. americana,,AL,,6.33,6.25,6.29,773.67,79.49125596,Vacuum centrifuge then add 25 uL,x,,,,,,,,,,,33.725,-85.600833,,,"33°43'30"" N","85°36'3"" W"
+A10-1,Heuchera americana var. americana,,IN,,9.4,9.33,9.365,1151.895,53.39028297,Vacuum centrifuge then add 25 uL,x,,,,,,,,,,,38.2152778,-85.906944,,,"38°12'55"" N","85°54'25"" W"
+A10-2,Heuchera americana var. americana,,IN,,1.58,1.62,1.6,196.8,Use whole sample,Vacuum centrifuge then add 25 uL,A,2/1/20,,,,,,,,,,38.2152778,-85.906944,,,"38°12'55"" N","85°54'25"" W"
+A10-3,Heuchera americana var. americana,,IN,,2.61,2.55,2.58,317.34,Use whole sample,Vacuum centrifuge then add 25 uL,A,2/1/20,,,,,,,,,,38.2152778,-85.906944,,,"38°12'55"" N","85°54'25"" W"
+A10-4,Heuchera americana var. americana,,IN,,9.04,8.66,8.85,1088.55,56.49717514,Vacuum centrifuge then add 25 uL,x,,,,,,,,,,,38.2152778,-85.906944,,,"38°12'55"" N","85°54'25"" W"
+A10-5,Heuchera americana var. americana,,IN,,3.85,3.74,3.795,466.785,Use whole sample,Vacuum centrifuge then add 25 uL,A,2/1/20,,,,,,,,,,38.2152778,-85.906944,,,"38°12'55"" N","85°54'25"" W"
+A10-6,Heuchera americana var. americana,,IN,,13.2,13,13.1,1611.3,38.16793893,Vacuum centrifuge then add 25 uL,A,2/1/20,,,,,,,,,,38.2152778,-85.906944,,,"38°12'55"" N","85°54'25"" W"
+A10-7,Heuchera americana var. americana,,IN,,5.29,5.78,5.535,680.805,90.33423668,Vacuum centrifuge then add 25 uL,A,2/1/20,,,,,,,,,,38.2152778,-85.906944,,,"38°12'55"" N","85°54'25"" W"
+A10-8,Heuchera americana var. americana,,IN,,11,11.5,11.25,1383.75,44.44444444,Vacuum centrifuge then add 25 uL,A,2/1/20,,,,,,,,,,38.2152778,-85.906944,,,"38°12'55"" N","85°54'25"" W"
+A11-1,Heuchera americana var. americana,,IN,,37.9,37.9,37.9,4661.7,13.19261214,11.80738786,B,2/11/20,,,,,,,,,,38.2591667,-86.461389,,,"38°15'33"" N","86°27'41"" W"
+A11-2,Heuchera americana var. americana,,IN,,9.01,9.25,9.13,1122.99,54.7645126,Vacuum centrifuge then add 25 uL,B,2/11/20,,60.4,58.6,,,,,,,38.2591667,-86.461389,,,"38°15'33"" N","86°27'41"" W"
+A11-3,Heuchera americana var. americana,,IN,,128,121,124.5,15313.5,4.016064257,20.98393574,B,2/11/20,Fell in vaccume centrefuge,,,,,,,,,38.2591667,-86.461389,,,"38°15'33"" N","86°27'41"" W"
+A11-4,Heuchera americana var. americana,,IN,,42.4,41.7,42.05,5172.15,11.89060642,13.10939358,B,2/11/20,,,,,,,,,,38.2591667,-86.461389,,,"38°15'33"" N","86°27'41"" W"
+A11-5,Heuchera americana var. americana,,IN,,3.78,4.71,4.245,522.135,117.7856302,Vacuum centrifuge then add 25 uL,B,,Dropped while open,6.06,5.84,,,,,,,38.2591667,-86.461389,,,"38°15'33"" N","86°27'41"" W"
+A11-6,Heuchera americana var. americana,,IN,,13,12.9,12.95,1592.85,38.61003861,Vacuum centrifuge then add 25 uL,,1/31/2020,,,,,,,,,,38.2591667,-86.461389,,,"38°15'33"" N","86°27'41"" W"
+A11-7,Heuchera americana var. americana,,IN,Yes,4.33,4.14,4.235,520.905,Use whole sample,Vacuum centrifuge then add 25 uL,C,,,,,,,,,,,38.2591667,-86.461389,,,"38°15'33"" N","86°27'41"" W"
+A11-8,Heuchera americana var. americana,,IN,Yes,4.02,3.77,3.895,479.085,Use whole sample,Vacuum centrifuge then add 25 uL,C,2/11/20,,,,,,,,,,38.2591667,-86.461389,,,"38°15'33"" N","86°27'41"" W"
+A12-1,Heuchera villosa var. macrorhiza,,IN,,31.3,30.1,30.7,3776.1,16.28664495,8.713355049,B,2/11/20,,,,,,,,,,38.1575,-86.340278,,,"38°9'27"" N","86°20'25"" W"
+A12-2,Heuchera villosa var. macrorhiza,,IN,,49.5,46.7,48.1,5916.3,10.3950104,14.6049896,B,2/11/20,,,,,,,,,,38.1575,-86.340278,,,"38°9'27"" N","86°20'25"" W"
+A12-3,Heuchera villosa var. macrorhiza,,IN,,10.4,10.8,10.6,1303.8,47.16981132,Vacuum centrifuge then add 25 uL,B,,Fell in vaccume centrefuge,7.31,7.28,,,,,,,38.1575,-86.340278,,,"38°9'27"" N","86°20'25"" W"
+A12-4,Heuchera villosa var. macrorhiza,,IN,,29.2,28,28.6,3517.8,17.48251748,7.517482517,B,2/11/20,,,,,,,,,,38.1575,-86.340278,,,"38°9'27"" N","86°20'25"" W"
+A12-5,Heuchera villosa var. macrorhiza,,IN,,22.9,22.6,22.75,2798.25,21.97802198,3.021978022,B,2/11/20,,,,,,,,,,38.1575,-86.340278,,,"38°9'27"" N","86°20'25"" W"
+A13-1,Heuchera americana var. hirsuticaulis,,IL,,18.3,18.1,18.2,2238.6,27.47252747,Vacuum centrifuge then add 25 uL,,1/31/2020,,,,,,,,,,37.60485,-88.384667,,,37°36.291' N,88°23.080' W
+A13-2,Heuchera americana var. hirsuticaulis,,IL,,11.6,11.5,11.55,1420.65,43.29004329,Vacuum centrifuge then add 25 uL,,1/31/2020,,,,,,,,,,37.60485,-88.384667,,,37°36.291' N,88°23.080' W
+A13-3,Heuchera americana var. hirsuticaulis,,IL,,8.76,8.52,8.64,1062.72,57.87037037,Vacuum centrifuge then add 25 uL,A,2/1/20,,,,,,,,,,37.60485,-88.384667,,,37°36.291' N,88°23.080' W
+A13-4,Heuchera americana var. hirsuticaulis,,IL,,19.4,18.6,19,2337,26.31578947,Vacuum centrifuge then add 25 uL,B,,Dropped while open,,,,,,,,,37.60485,-88.384667,,,37°36.291' N,88°23.080' W
+A13-5,Heuchera americana var. hirsuticaulis,,IL,,23.4,22.7,23.05,2835.15,21.69197397,3.30802603,B,2/11/20,,,,,,,,,,37.60485,-88.384667,,,37°36.291' N,88°23.080' W
+A13-6,Heuchera americana var. hirsuticaulis,,IL,,80.5,76.5,78.5,9655.5,6.369426752,18.63057325,B,2/11/20,,,,,,,,,,37.60485,-88.384667,,,37°36.291' N,88°23.080' W
+A13-7,Heuchera americana var. hirsuticaulis,,IL,,62.1,61.7,61.9,7613.7,8.077544426,16.92245557,B,2/11/20,,,,,,,,,,37.60485,-88.384667,,,37°36.291' N,88°23.080' W
+A13-8,Heuchera americana var. hirsuticaulis,,IL,,41.1,41.1,41.1,5055.3,12.16545012,12.83454988,B,2/11/20,,,,,,,,,,37.60485,-88.384667,,,37°36.291' N,88°23.080' W
+A13-9,Heuchera americana var. hirsuticaulis,,IL,,8.16,8.05,8.105,996.915,61.69031462,Vacuum centrifuge then add 25 uL,A,2/1/20,,,,,,,,,,37.60485,-88.384667,,,37°36.291' N,88°23.080' W
+A14,Heuchera americana var. hirsuticaulis,,IL,,8.7,8.31,8.505,1046.115,58.78894768,Vacuum centrifuge then add 25 uL,B,,Dropped while open,,,,,,,,,38.9730556,-90.464444,,,"38°58'23"" N","90°27'52"" W"
+A15-1,Heuchera richardsonii,,MO,,2.09,2.12,2.105,258.915,Use whole sample,Vacuum centrifuge then add 25 uL,,,Entire sample used for library,,,,,,,,,38.1491167,-92.825311,,,"38°8'56.82"" N","92°49'31.12"" W"
+A15-10,Heuchera richardsonii,,MO,,35.6,33.8,34.7,4268.1,14.4092219,10.5907781,B,2/11/20,,,,,,,,,,38.1491167,-92.825311,,,"38°8'56.82"" N","92°49'31.12"" W"
+A15-11,Heuchera richardsonii,,MO,,57,55.5,56.25,6918.75,8.888888889,16.11111111,B,2/11/20,,,,,,,,,,38.1491167,-92.825311,,,"38°8'56.82"" N","92°49'31.12"" W"
+A15-12,Heuchera richardsonii,,MO,,25.6,24.7,25.15,3093.45,19.88071571,5.119284294,B,2/11/20,,,,,,,,,,38.1491167,-92.825311,,,"38°8'56.82"" N","92°49'31.12"" W"
+A15-13,Heuchera richardsonii,,MO,,38.4,37.1,37.75,4643.25,13.24503311,11.75496689,B,2/11/20,,,,,,,,,,38.1491167,-92.825311,,,"38°8'56.82"" N","92°49'31.12"" W"
+A15-14,Heuchera richardsonii,,MO,,13,12.7,12.85,1580.55,38.91050584,Vacuum centrifuge then add 25 uL,B,,Dropped while open,,,,,,,,,38.1491167,-92.825311,,,"38°8'56.82"" N","92°49'31.12"" W"
+A15-15,Heuchera richardsonii,,MO,,65,63.7,64.35,7915.05,7.77000777,17.22999223,B,2/11/20,,,,,,,,,,38.1491167,-92.825311,,,"38°8'56.82"" N","92°49'31.12"" W"
+A15-2,Heuchera richardsonii,,MO,Yes,1.6,1.76,1.68,206.64,Use whole sample,Vacuum centrifuge then add 25 uL,C,2/11/20,,,,,,,,,,38.1491167,-92.825311,,,"38°8'56.82"" N","92°49'31.12"" W"
+A15-3,Heuchera richardsonii,,MO,,25.7,24.9,25.3,3111.9,19.76284585,5.23715415,B,2/11/20,,,,,,,,,,38.1491167,-92.825311,,,"38°8'56.82"" N","92°49'31.12"" W"
+A15-4,Heuchera richardsonii,,MO,,10.1,10.3,10.2,1254.6,49.01960784,Vacuum centrifuge then add 25 uL,,1/31/2020,,,,,,,,,,38.1491167,-92.825311,,,"38°8'56.82"" N","92°49'31.12"" W"
+A15-5,Heuchera richardsonii,,MO,,5.14,5.64,5.39,662.97,92.76437848,Vacuum centrifuge then add 25 uL,A,2/1/20,,,,,,,,,,38.1491167,-92.825311,,,"38°8'56.82"" N","92°49'31.12"" W"
+A15-6,Heuchera richardsonii,,MO,,23.7,23.1,23.4,2878.2,21.36752137,3.632478632,B,2/11/20,,,,,,,,,,38.1491167,-92.825311,,,"38°8'56.82"" N","92°49'31.12"" W"
+A15-7,Heuchera richardsonii,,MO,,40.9,40.2,40.55,4987.65,12.33045623,12.66954377,B,2/11/20,,,,,,,,,,38.1491167,-92.825311,,,"38°8'56.82"" N","92°49'31.12"" W"
+A15-8,Heuchera richardsonii,,MO,,63.1,64.6,63.85,7853.55,7.830853563,17.16914644,B,2/11/20,,,,,,,,,,38.1491167,-92.825311,,,"38°8'56.82"" N","92°49'31.12"" W"
+A15-9,Heuchera richardsonii,,MO,,15.7,15.5,15.6,1918.8,32.05128205,Vacuum centrifuge then add 25 uL,B,,Dropped while open,,,,,,,,,38.1491167,-92.825311,,,"38°8'56.82"" N","92°49'31.12"" W"
+A16-1,Heuchera richardsonii,,WS,,32.1,30.1,31.1,3825.3,16.07717042,8.922829582,B,2/11/20,,,,,,,,,,43.4175,-89.726944,,,"43°25'3"" N","89°43'37"" W"
+A16-10,Heuchera richardsonii,,WS,,78,73.7,75.85,9329.55,6.591957811,18.40804219,B,,,,,,,,,,,43.4175,-89.726944,,,"43°25'3"" N","89°43'37"" W"
+A16-11,Heuchera richardsonii,,WS,,93.8,89.1,91.45,11248.35,5.467468562,19.53253144,B,,,,,,,,,,,43.4175,-89.726944,,,"43°25'3"" N","89°43'37"" W"
+A16-2,Heuchera richardsonii,,WS,,12.7,12.9,12.8,1574.4,39.0625,Vacuum centrifuge then add 25 uL,x,,,,,,,,,,,43.4175,-89.726944,,,"43°25'3"" N","89°43'37"" W"
+A16-3,Heuchera richardsonii,,WS,,23.2,22.7,22.95,2822.85,21.78649237,3.213507625,B,,,,,,,,,,,43.4175,-89.726944,,,"43°25'3"" N","89°43'37"" W"
+A16-4,Heuchera richardsonii,,WS,,3.34,3.79,3.565,438.495,Use whole sample,Vacuum centrifuge then add 25 uL,B,,Dropped while open,3.89,3.64,,,,,,,43.4175,-89.726944,,,"43°25'3"" N","89°43'37"" W"
+A16-6,Heuchera richardsonii,,WS,,23.8,23.6,23.7,2915.1,21.09704641,3.902953586,A,2/1/20,,,,,,,,,,43.4175,-89.726944,,,"43°25'3"" N","89°43'37"" W"
+A16-7,Heuchera richardsonii,,WS,,8.25,7.57,7.91,972.93,63.21112516,Vacuum centrifuge then add 25 uL,B,,Dropped while open,,,,,,,,,43.4175,-89.726944,,,"43°25'3"" N","89°43'37"" W"
+A16-8,Heuchera richardsonii,,WS,,239,238,238.5,29335.5,2.096436059,22.90356394,B,,,,,,,,,,,43.4175,-89.726944,,,"43°25'3"" N","89°43'37"" W"
+A16-9,Heuchera richardsonii,,WS,,51.8,49.2,50.5,6211.5,9.900990099,15.0990099,B,,One of these is A16-5,,,,,,,,,43.4175,-89.726944,,,"43°25'3"" N","89°43'37"" W"
+A16-9,Heuchera richardsonii,,WS,,64.2,62.8,63.5,7810.5,7.874015748,17.12598425,B,,One of these is A16-5,,,,,,,,,43.4175,-89.726944,,,"43°25'3"" N","89°43'37"" W"
+A16:12,Heuchera richardsonii,,WS,,77.9,74.8,76.35,9391.05,6.548788474,18.45121153,B,,,,,,,,,,,43.4175,-89.726944,,,"43°25'3"" N","89°43'37"" W"
+A17-1,Heuchera richardsonii,,WS,,24.9,24.9,24.9,3062.7,20.08032129,4.919678715,x,,,,,,,,,,,45.3975,-92.648056,,,"45°23'51"" N","92°38'53"" W"
+A17-2,Heuchera richardsonii,,WS,,10.2,10.5,10.35,1273.05,48.30917874,Vacuum centrifuge then add 25 uL,x,,,,,,,,,,,45.3975,-92.648056,,,"45°23'51"" N","92°38'53"" W"
+A17-3,Heuchera richardsonii,,WS,,18.1,18.4,18.25,2244.75,27.39726027,Vacuum centrifuge then add 25 uL,x,,,,,,,,,,,45.3975,-92.648056,,,"45°23'51"" N","92°38'53"" W"
+A17-4,Heuchera richardsonii,,WS,,19.3,19.4,19.35,2380.05,25.83979328,Vacuum centrifuge then add 25 uL,x,,,,,,,,,,,45.3975,-92.648056,,,"45°23'51"" N","92°38'53"" W"
+A17-5,Heuchera richardsonii,,WS,,21.4,22.3,21.85,2687.55,22.88329519,2.116704805,x,,,,,,,,,,,45.3975,-92.648056,,,"45°23'51"" N","92°38'53"" W"
+A17-6,Heuchera richardsonii,,WS,,12.1,12.3,12.2,1500.6,40.98360656,Vacuum centrifuge then add 25 uL,,1/31/2020,,,,,,,,,,45.3975,-92.648056,,,"45°23'51"" N","92°38'53"" W"
+A17-7,Heuchera richardsonii,,WS,,21.9,17.6,19.75,2429.25,25.3164557,Vacuum centrifuge then add 25 uL,x,,,,,,,,,,,45.3975,-92.648056,,,"45°23'51"" N","92°38'53"" W"
+A17-8,Heuchera richardsonii,,WS,,4.89,6.77,5.83,,,,x,,,,,,,,,,,45.3975,-92.648056,,,"45°23'51"" N","92°38'53"" W"
+A17-9,Heuchera richardsonii,,WS,,43,51,47,5781,10.63829787,14.36170213,A,2/1/20,,,,,,,,,,45.3975,-92.648056,,,"45°23'51"" N","92°38'53"" W"
+A2-1,Heuchera americana var. americana,,AL,,NA,NA,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,x,,,,,,,,,,,33.3705556,-85.713056,,,"33°22'14"" N","85°42'47"" W"
+A2-2,Heuchera americana var. americana,,AL,,NA,NA,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,x,,,,,,,,,,,33.3705556,-85.713056,,,"33°22'14"" N","85°42'47"" W"
+A2-3,Heuchera americana var. americana,,AL,,24.9,24.4,24.65,3031.95,20.28397566,4.716024341,x,,,,,,,,,,,33.3705556,-85.713056,,,"33°22'14"" N","85°42'47"" W"
+A2-3,Heuchera americana var. americana,,AL,Yes,3.36,3.51,3.435,422.505,Use whole sample,Vacuum centrifuge then add 25 uL,x,,,,,,,,,,,33.3705556,-85.713056,,,"33°22'14"" N","85°42'47"" W"
+A2-4,Heuchera americana var. americana,,AL,Yes,2.46,2.53,2.495,306.885,Use whole sample,Vacuum centrifuge then add 25 uL,D,,,,,,,,,,,33.3705556,-85.713056,,,"33°22'14"" N","85°42'47"" W"
+A2-4,Heuchera americana var. americana,,AL,,6.53,6.12,6.325,777.975,79.0513834,Vacuum centrifuge then add 25 uL,,duplicate,,,,,,,,,,33.3705556,-85.713056,,,"33°22'14"" N","85°42'47"" W"
+A2-5,Heuchera americana var. americana,,AL,,7.2,7.01,7.105,873.915,70.37297678,Vacuum centrifuge then add 25 uL,x,,,,,,,,,,,33.3705556,-85.713056,,,"33°22'14"" N","85°42'47"" W"
+A21-1,Heuchera richardsonii,,MN,,8.52,8.65,8.585,1055.955,58.24111823,Vacuum centrifuge then add 25 uL,,1/31/2020,,,,,,,,,,47.7205556,-91.777778,,,"47°43'14"" N","91°46'40"" W"
+A21-10,Heuchera richardsonii,,MN,,14.8,14.5,14.65,1801.95,34.12969283,Vacuum centrifuge then add 25 uL,A,2/1/20,,,,,,,,,,47.7205556,-91.777778,,,"47°43'14"" N","91°46'40"" W"
+A21-11,Heuchera richardsonii,,MN,,9.91,10.2,10.055,1236.765,49.72650423,Vacuum centrifuge then add 25 uL,A,2/1/20,,,,,,,,,,47.7205556,-91.777778,,,"47°43'14"" N","91°46'40"" W"
+A21-2,Heuchera richardsonii,,MN,,7.57,7.46,7.515,924.345,66.53359947,Vacuum centrifuge then add 25 uL,E,,,,,,,,,,,47.7205556,-91.777778,,,"47°43'14"" N","91°46'40"" W"
+A21-3,Heuchera richardsonii,,MN,,4.69,4.84,4.765,586.095,104.9317943,Vacuum centrifuge then add 25 uL,A,2/1/20,,,,,,,,,,47.7205556,-91.777778,,,"47°43'14"" N","91°46'40"" W"
+A21-4,Heuchera richardsonii,,MN,,3.94,4.05,3.995,491.385,Use whole sample,Vacuum centrifuge then add 25 uL,A,2/1/20,,,,,,,,,,47.7205556,-91.777778,,,"47°43'14"" N","91°46'40"" W"
+A21-5,Heuchera richardsonii,,MN,,12.9,13,12.95,1592.85,38.61003861,Vacuum centrifuge then add 25 uL,A,2/1/20,,,,,,,,,,47.7205556,-91.777778,,,"47°43'14"" N","91°46'40"" W"
+A21-6,Heuchera richardsonii,,MN,,3.92,3.99,3.955,486.465,Use whole sample,Vacuum centrifuge then add 25 uL,A,2/1/20,,,,,,,,,,47.7205556,-91.777778,,,"47°43'14"" N","91°46'40"" W"
+A21-7,Heuchera richardsonii,,MN,,18.2,19,18.6,2287.8,26.88172043,Vacuum centrifuge then add 25 uL,A,2/1/20,,,,,,,,,,47.7205556,-91.777778,,,"47°43'14"" N","91°46'40"" W"
+A21-8,Heuchera richardsonii,,MN,,20.3,21,20.65,2539.95,24.21307506,0.7869249395,A,2/1/20,,,,,,,,,,47.7205556,-91.777778,,,"47°43'14"" N","91°46'40"" W"
+A21-9,Heuchera richardsonii,,MN,,12.7,13,12.85,1580.55,38.91050584,Vacuum centrifuge then add 25 uL,E,,Fell in vaccume centrefuge ,,,,,,,,,47.7205556,-91.777778,,,"47°43'14"" N","91°46'40"" W"
+A22-1,Heuchera glomerulata,,AZ,,38.9,38.8,38.85,4778.55,12.87001287,12.12998713,E,,,,,,,,,,,32.6499094,-109.81976,,,32.6499094° N,109.8197560° W
+A22-2,Heuchera glomerulata,,AZ,,22.5,21.2,21.85,2687.55,22.88329519,2.116704805,E,,,,,,,,,,,32.6499094,-109.81976,,,32.6499094° N,109.8197560° W
+A22-3,Heuchera glomerulata,,AZ,,20.5,19.3,19.9,2447.7,25.12562814,Vacuum centrifuge then add 25 uL,E,,,,,,,,,,,32.6499094,-109.81976,,,32.6499094° N,109.8197560° W
+A22-4,Heuchera glomerulata,,AZ,,37.7,36.8,37.25,4581.75,13.42281879,11.57718121,E,,,,,,,,,,,32.6499094,-109.81976,,,32.6499094° N,109.8197560° W
+A22-5,Heuchera glomerulata,,AZ,,30.4,29.9,30.15,3708.45,16.58374793,8.416252073,A,2/1/20,,,,,,,,,,32.6499094,-109.81976,,,32.6499094° N,109.8197560° W
+A22-6,Heuchera glomerulata,,AZ,,62.8,60.6,61.7,7589.1,8.103727715,16.89627229,x,,,,,,,,,,,32.6499094,-109.81976,,,32.6499094° N,109.8197560° W
+A22-7,Heuchera glomerulata,,AZ,,71.4,71,71.2,8757.6,7.02247191,17.97752809,A,,,,,,,,,,,32.6499094,-109.81976,,,32.6499094° N,109.8197560° W
+A23-1,Heuchera glomerulata,,AZ,,23.8,22.4,23.1,2841.3,21.64502165,3.354978355,E,,,,,,,,,,,32.632,-109.8145,,,32.6320° N,109.8145° W
+A23-2,Heuchera glomerulata,,AZ,,24.9,24.4,24.65,3031.95,20.28397566,4.716024341,E,,,,,,,,,,,32.632,-109.8145,,,32.6320° N,109.8145° W
+A23-3,Heuchera glomerulata,,AZ,,21,21.3,21.15,2601.45,23.64066194,1.359338061,E,,,,,,,,,,,32.632,-109.8145,,,32.6320° N,109.8145° W
+A23-4,Heuchera glomerulata,,AZ,,13.9,13.5,13.7,1685.1,36.49635036,Vacuum centrifuge then add 25 uL,E,,,,,,,,,,,32.632,-109.8145,,,32.6320° N,109.8145° W
+A23-5,Heuchera glomerulata,,AZ,,28.4,28.3,28.35,3487.05,17.6366843,7.363315697,B,,,,,,,,,,,32.632,-109.8145,,,32.6320° N,109.8145° W
+A23-6,Heuchera glomerulata,,AZ,,17.6,16.6,17.1,2103.3,29.23976608,Vacuum centrifuge then add 25 uL,E,,,,,,,,,,,32.632,-109.8145,,,32.6320° N,109.8145° W
+A23-7,Heuchera glomerulata,,AZ,,18.8,18.8,18.8,2312.4,26.59574468,Vacuum centrifuge then add 25 uL,E,,,,,,,,,,,32.632,-109.8145,,,32.6320° N,109.8145° W
+A23-8,Heuchera glomerulata,,AZ,,48,46.4,47.2,5805.6,10.59322034,14.40677966,E,,,,,,,,,,,32.632,-109.8145,,,32.6320° N,109.8145° W
+A25-1,Heuchera sanguinea,,AZ,,12.1,12.2,12.15,1494.45,41.15226337,Vacuum centrifuge then add 25 uL,E,,,,,,,,,,,32.6318157,-109.81452,,,32.6318157° N,-109.8145241° W
+A25-10,Heuchera sanguinea,,AZ,,7.49,7.42,7.455,916.965,67.06908115,Vacuum centrifuge then add 25 uL,E,,,,,,,,,,,32.6318157,-109.81452,,,32.6318157° N,-109.8145241° W
+A25-2,Heuchera sanguinea,,AZ,,16.3,15,15.65,1924.95,31.94888179,Vacuum centrifuge then add 25 uL,F,,,,,,,,,,,32.6318157,-109.81452,,,32.6318157° N,-109.8145241° W
+A25-3,Heuchera sanguinea,,AZ,,22.7,21.3,22,2706,22.72727273,2.272727273,E,,,,,,,,,,,32.6318157,-109.81452,,,32.6318157° N,-109.8145241° W
+A25-4,Heuchera sanguinea,,AZ,,15.3,15,15.15,1863.45,33.00330033,Vacuum centrifuge then add 25 uL,E,,,,,,,,,,,32.6318157,-109.81452,,,32.6318157° N,-109.8145241° W
+A25-5,Heuchera sanguinea,,AZ,,33.4,32.4,32.9,4046.7,15.19756839,9.802431611,E,,,,,,,,,,,32.6318157,-109.81452,,,32.6318157° N,-109.8145241° W
+A25-6,Heuchera sanguinea,,AZ,,38.4,38,38.2,4698.6,13.08900524,11.91099476,E,,,,,,,,,,,32.6318157,-109.81452,,,32.6318157° N,-109.8145241° W
+A25-7,Heuchera sanguinea,,AZ,Yes,14,14.7,14.35,1765.05,34.84320557,Vacuum centrifuge then add 25 uL,D,,,,,,,,,,,32.6318157,-109.81452,,,32.6318157° N,-109.8145241° W
+A25-8,Heuchera sanguinea,,AZ,,16.7,15.7,16.2,1992.6,30.86419753,Vacuum centrifuge then add 25 uL,E,,,,,,,,,,,32.6318157,-109.81452,,,32.6318157° N,-109.8145241° W
+A25-9,Heuchera sanguinea,,AZ,,23.5,21.7,22.6,2779.8,22.12389381,2.876106195,F,,,,,,,,,,,32.6318157,-109.81452,,,32.6318157° N,-109.8145241° W
+A26-1,Heuchera sanguinea,,AZ,,17.7,16.5,17.1,2103.3,29.23976608,Vacuum centrifuge then add 25 uL,E,,,,,,,,,,,32.6359861,-109.82353,,,"32°38'9.55"" N","109°49'24.72"" W"
+A26-10,Heuchera sanguinea,,AZ,,12.1,11.9,12,1476,41.66666667,Vacuum centrifuge then add 25 uL,E,,,,,,,,,,,32.6359861,-109.82353,,,"32°38'9.55"" N","109°49'24.72"" W"
+A26-11,Heuchera sanguinea,,AZ,,10.9,10.3,10.6,1303.8,47.16981132,Vacuum centrifuge then add 25 uL,E,,,,,,,,,,,32.6359861,-109.82353,,,"32°38'9.55"" N","109°49'24.72"" W"
+A26-2,Heuchera sanguinea,,AZ,,12.3,11.1,11.7,1439.1,42.73504274,Vacuum centrifuge then add 25 uL,F,,,,,,,,,,,32.6359861,-109.82353,,,"32°38'9.55"" N","109°49'24.72"" W"
+A26-3,Heuchera sanguinea,,AZ,,29.7,28.8,29.25,3597.75,17.09401709,7.905982906,E,,,,,,,,,,,32.6359861,-109.82353,,,"32°38'9.55"" N","109°49'24.72"" W"
+A26-4,Heuchera sanguinea,,AZ,,8.31,7.97,8.14,1001.22,61.42506143,Vacuum centrifuge then add 25 uL,E,,,,,,,,,,,32.6359861,-109.82353,,,"32°38'9.55"" N","109°49'24.72"" W"
+A26-5,Heuchera sanguinea,,AZ,,8.78,7.78,8.28,1018.44,60.38647343,Vacuum centrifuge then add 25 uL,F,,,,,,,,,,,32.6359861,-109.82353,,,"32°38'9.55"" N","109°49'24.72"" W"
+A26-6,Heuchera sanguinea,,AZ,,5.8,4.93,5.365,659.895,93.19664492,Vacuum centrifuge then add 25 uL,E,,,,,,,,,,,32.6359861,-109.82353,,,"32°38'9.55"" N","109°49'24.72"" W"
+A26-7,Heuchera sanguinea,,AZ,,7.82,7.67,7.745,952.635,64.55777921,Vacuum centrifuge then add 25 uL,E,,,,,,,,,,,32.6359861,-109.82353,,,"32°38'9.55"" N","109°49'24.72"" W"
+A26-8,Heuchera sanguinea,,AZ,,8.59,8.26,8.425,1036.275,59.34718101,Vacuum centrifuge then add 25 uL,E,,,,,,,,,,,32.6359861,-109.82353,,,"32°38'9.55"" N","109°49'24.72"" W"
+A26-9,Heuchera sanguinea,,AZ,,11.7,11.6,11.65,1432.95,42.91845494,Vacuum centrifuge then add 25 uL,E,,,,,,,,,,,32.6359861,-109.82353,°,,"32°38'9.55"" N","109°49'24.72"" W"
+A3-1,Heuchera americana var. americana,,AL,,16.8,17.2,17,2091,29.41176471,Vacuum centrifuge then add 25 uL,x,,,,,,,,,,,32.9541667,-86.447222,,,"32°57'15"" N","86°26'50"" W"
+A3-2,Heuchera americana var. americana,,AL,Yes,3.3,3.49,3.395,417.585,Use whole sample,Vacuum centrifuge then add 25 uL,D,,,,,,,,,,,32.9541667,-86.447222,,,"32°57'15"" N","86°26'50"" W"
+A3-2,Heuchera americana var. americana,,AL,,15.4,15.1,15.25,1875.75,32.78688525,Vacuum centrifuge then add 25 uL,,duplicate,,,,,,,,,,32.9541667,-86.447222,,,"32°57'15"" N","86°26'50"" W"
+A3-3,Heuchera americana var. americana,,AL,Yes,11.3,11.9,11.6,1426.8,43.10344828,Vacuum centrifuge then add 25 uL,D,,,,,,,,,,,32.9541667,-86.447222,,,"32°57'15"" N","86°26'50"" W"
+A3-3,Heuchera americana var. americana,,AL,,10.7,10.5,10.6,1303.8,47.16981132,Vacuum centrifuge then add 25 uL,,duplicate,,,,,,,,,,32.9541667,-86.447222,,,"32°57'15"" N","86°26'50"" W"
+A3-4,Heuchera americana var. americana,,AL,Yes,,,,,,,,,,,,,,,,,,32.9541667,-86.447222,,,"32°57'15"" N","86°26'50"" W"
+A4-1,Heuchera americana var. americana,,GA,,24.7,24.4,24.55,3019.65,20.36659878,4.633401222,x,,,,,,,,,,,34.7288889,-84.082778,,,"34°43'44"" N","84°4'58"" W"
+A4-2,Heuchera americana var. americana,,GA,Yes,89.7,94,91.85,11297.55,5.443658138,19.55634186,D,,,,,,,,,,,34.7288889,-84.082778,,,"34°43'44"" N","84°4'58"" W"
+A4-2,Heuchera americana var. americana,,GA,,10.5,10.5,10.5,1291.5,47.61904762,Vacuum centrifuge then add 25 uL,,duplicate,,,,,,,,,,34.7288889,-84.082778,,,"34°43'44"" N","84°4'58"" W"
+A4-3,Heuchera americana var. americana,,GA,,11.9,11.7,11.8,1451.4,42.37288136,Vacuum centrifuge then add 25 uL,x,,,,,,,,,,,34.7288889,-84.082778,,,"34°43'44"" N","84°4'58"" W"
+A4-4,Heuchera americana var. americana,,GA,,6.57,6.39,6.48,797.04,77.16049383,Vacuum centrifuge then add 25 uL,x,,,,,,,,,,,34.7288889,-84.082778,,,"34°43'44"" N","84°4'58"" W"
+A4-5,Heuchera americana var. americana,,GA,,12.2,12,12.1,1488.3,41.32231405,Vacuum centrifuge then add 25 uL,x,,,,,,,,,,,34.7288889,-84.082778,,,"34°43'44"" N","84°4'58"" W"
+A5-1,Heuchera villosa var. villosa,,GA,,17.3,17.1,17.2,2115.6,29.06976744,Vacuum centrifuge then add 25 uL,x,,,,,,,,,,,34.6772222,-84,,,"34°40'38"" N","84°0'0"" W"
+A5-2,Heuchera villosa var. villosa,,GA,Yes,35.6,37.7,36.65,4507.95,13.6425648,11.3574352,D,,,,,,,,,,,34.6772222,-84,,,"34°40'38"" N","84°0'0"" W"
+A5-2,Heuchera villosa var. villosa,,GA,,20.8,20.6,20.7,2546.1,24.15458937,0.845410628,,duplicate,,,,,,,,,,34.6772222,-84,,,"34°40'38"" N","84°0'0"" W"
+A5-3,Heuchera villosa var. villosa,,GA,Yes,118,124,121,14883,4.132231405,20.8677686,D,,,,,,,,,,,34.6772222,-84,,,"34°40'38"" N","84°0'0"" W"
+A5-3,Heuchera villosa var. villosa,,GA,,32.4,31.9,32.15,3954.45,15.55209953,9.447900467,,duplicate,,,,,,,,,,34.6772222,-84,,,"34°40'38"" N","84°0'0"" W"
+A5-4,Heuchera villosa var. villosa,,GA,,17.6,18.1,17.85,2195.55,28.01120448,Vacuum centrifuge then add 25 uL,x,,,,,,,,,,,34.6772222,-84,,,"34°40'38"" N","84°0'0"" W"
+A5-5,Heuchera villosa var. villosa,,GA,,3.08,3.04,3.06,376.38,Use whole sample,Vacuum centrifuge then add 25 uL,x,,Entire sample used for library,,,,,,,,,34.6772222,-84,,,"34°40'38"" N","84°0'0"" W"
+A6-1,Heuchera americana var. americana,,GA,,15.1,15.6,15.35,1888.05,32.5732899,Vacuum centrifuge then add 25 uL,x,,,,,,,,,,,34.6194444,-83.792222,,,"34°37'10"" N","83°47'32"" W"
+A6-2,Heuchera americana var. americana,,GA,,6.77,6.7,6.735,828.405,74.23904974,Vacuum centrifuge then add 25 uL,x,,,,,,,,,,,34.6194444,-83.792222,,,"34°37'10"" N","83°47'32"" W"
+A6-3,Heuchera americana var. americana,,GA,,6.77,8.28,7.525,925.575,66.44518272,Vacuum centrifuge then add 25 uL,,1/31/2020,,1.63,1.56,,,,,,,34.6194444,-83.792222,,,"34°37'10"" N","83°47'32"" W"
+A6-3,Heuchera americana var. americana,,GA,Yes,too low,too low,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,x,,,,,,,,,,,34.6194444,-83.792222,,,"34°37'10"" N","83°47'32"" W"
+A6-4,Heuchera americana var. americana,,GA,,NA ,NA,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,x,,,,,,,,,,,34.6194444,-83.792222,,,"34°37'10"" N","83°47'32"" W"
+A7-1,Heuchera americana var. americana,,SC,,26.9,26.7,26.8,3296.4,18.65671642,6.343283582,,1/31/2020,,,,,,,,,,34.0972222,-82.351389,,,"34°5'50"" N","82°21'5"" W"
+A7-2,Heuchera americana var. americana,,SC,,22.5,22,22.25,2736.75,22.47191011,2.528089888,x,,,,,,,,,,,34.0972222,-82.351389,,,"34°5'50"" N","82°21'5"" W"
+A7-3,Heuchera americana var. americana,,SC,,17.2,17,17.1,2103.3,29.23976608,Vacuum centrifuge then add 25 uL,,1/31/2020,,,,,,,,,,34.0972222,-82.351389,,,"34°5'50"" N","82°21'5"" W"
+A7-4,Heuchera americana var. americana,,SC,,21.2,20.9,21.05,2589.15,23.75296912,1.247030879,x,,,,,,,,,,,34.0972222,-82.351389,,,"34°5'50"" N","82°21'5"" W"
+A7-4,Heuchera americana var. americana,,SC,,55.2,52.7,53.95,6635.85,9.267840593,15.73215941,x,,,,,,,,,,,34.0972222,-82.351389,,,"34°5'50"" N","82°21'5"" W"
+A8,Heuchera americana var. americana,,GA,,50.3,49.4,49.85,6131.55,10.03009027,14.96990973,,1/31/2020,,,,,,,,,,33.2555556,-83.6825,,,"33°15'20"" N","83°40'57"" W"
+A9-1,Heuchera americana var. hirsuticaulis,,IN,,17.6,18.4,18,2214,27.77777778,Vacuum centrifuge then add 25 uL,A,2/1/20,,,,,,,,,,40.3380556,-87.316389,,,"40°20'17"" N","87°18'59"" W"
+A9-2,Heuchera americana var. hirsuticaulis,,IN,,12.2,12.8,12.5,1537.5,40,Vacuum centrifuge then add 25 uL,x,,,,,,,,,,,40.3380556,-87.316389,,,"40°20'17"" N","87°18'59"" W"
+A9-3,Heuchera americana var. hirsuticaulis,,IN,,6.25,6.27,6.26,769.98,79.87220447,Vacuum centrifuge then add 25 uL,,1/31/2020,,,,,,,,,,40.3380556,-87.316389,,,"40°20'17"" N","87°18'59"" W"
+A9-4,Heuchera americana var. hirsuticaulis,,IN,,4,4.08,4.04,496.92,Use whole sample,Vacuum centrifuge then add 25 uL,A,2/1/20,,,,,,,,,,40.3380556,-87.316389,,,"40°20'17"" N","87°18'59"" W"
+A9-5,Heuchera americana var. hirsuticaulis,,IN,,75.1,70.7,72.9,8966.7,6.858710562,18.14128944,B,,,,,,,,,,,40.3380556,-87.316389,,,"40°20'17"" N","87°18'59"" W"
+A9-6,Heuchera americana var. hirsuticaulis,,IN,,2.6,3.06,2.83,348.09,Use whole sample,Vacuum centrifuge then add 25 uL,A,,,4.29,4.17,,,,,,,40.3380556,-87.316389,,,"40°20'17"" N","87°18'59"" W"
+A9-7,Heuchera americana var. hirsuticaulis,,IN,,16.1,16.6,16.35,2011.05,30.58103976,Vacuum centrifuge then add 25 uL,E,,,,,,,,,,,40.3380556,-87.316389,,,"40°20'17"" N","87°18'59"" W"
+H102:3,Heuchera americana var. americana,,VA,,3.04,2.98,3.01,370.23,Use whole sample,Vacuum centrifuge then add 25 uL,x,,,,,,,,,,,37.8975,-78.946389,,,"37°53'51""","-79°03'13"""
+H105,Heuchera richardsonii,,SD,,69.8,72.4,71.1,8745.3,7.032348805,17.9676512,x,,Change label to H105:C please!!!,,,Folk,105,"Parking lot near Sylvan Lake, SD",,,,43.8438361,-102.43763,,,"43°50'37.81""","-103°33'44.54"""
+H105:1,Heuchera richardsonii,,SD,,27.1,26.6,26.85,3302.55,18.62197393,6.378026071,x,,,,,Folk,105,"Parking lot near Sylvan Lake, SD",,,,43.8438361,-102.43763,,,"43°50'37.81""","-103°33'44.54"""
+H106:1,Heuchera richardsonii,,SD,,47.3,46.9,47.1,5793.3,10.61571125,14.38428875,x,,,,,,,,,,,44.4666667,-102.0525,,,"44°28'00""","-103°56'51"""
+H106:2,Heuchera richardsonii,,SD,,55.1,54,54.55,6709.65,9.165902841,15.83409716,x,,,,,,,,,,,44.4666667,-102.0525,,,"44°28'00""","-103°56'51"""
+H107:1,Heuchera parvifolia,,WY,Yes,56.5,55.4,55.95,6881.85,8.936550492,16.06344951,C,,,,,,,,,,,44.3305556,-105.18611,,,"44°19'50""","-106°48'50"""
+H107:2,Heuchera parvifolia,,WY,Yes,51.5,50.1,50.8,6248.4,9.842519685,15.15748031,D,,,,,,,,,,,44.3305556,-105.18611,,,"44°19'50""","-106°48'50"""
+H108:1,Heuchera saxicola,,MT,,7.12,6.67,6.895,848.085,72.51631617,Vacuum centrifuge then add 25 uL,B,,Dropped while open,5.73,5.37,Folk,108,"Hellroaring Trail, Spanish Creek Basin, MT, USA",,,,45.4369444,-111.23361,,,"45°26'13"" N","111°14'01"" W"
+H108:2,Heuchera saxicola,,MT,Yes,62.3,61.1,61.7,7589.1,8.103727715,16.89627229,C,,,,,Folk,108,"Hellroaring Trail, Spanish Creek Basin, MT, USA",,,,45.4369444,-111.23361,,,"45°26'13"" N","111°14'01"" W"
+H110:1,Heuchera saxicola,,MT,Yes,39.4,40.8,40.1,4932.3,12.46882793,12.53117207,D,,,,,,,,,,,45.1133333,-112.77111,,,"45°06'48""","-113°13'44"""
+H110:2,Heuchera saxicola,,MT,Yes,31.6,32.7,32.15,3954.45,15.55209953,9.447900467,D,,,,,,,,,,,45.1133333,-112.77111,°,,"45°06'48""","-113°13'44"""
+H111:1,Heuchera saxicola,,MT,Yes,31.7,32.6,32.15,3954.45,15.55209953,9.447900467,D,,,,,,,,,,,46.2519444,-111.65833,,,"46°15'07""","-112°20'30"""
+H111:2,Heuchera saxicola,,MT,,20.1,19.7,19.9,2447.7,25.12562814,Vacuum centrifuge then add 25 uL,B,,Dropped while open,,,,,,,,,46.2519444,-111.65833,,,"46°15'07""","-112°20'30"""
+H112:1,Heuchera saxicola,,MT,Yes,60.6,60.4,60.5,7441.5,8.26446281,16.73553719,C,,,,,,,,,,,46.2541667,-111.81333,,,"46°15'15""","-112°11'12"""
+H112:2,Heuchera saxicola,,MT,Yes,31.6,31.9,31.75,3905.25,15.7480315,9.251968504,D,,,,,,,,,,,46.2541667,-111.81333,,,"46°15'15""","-112°11'12"""
+H113:1,Heuchera cylindrica var. glabella,,MT,Yes,25.3,25.9,25.6,3148.8,19.53125,5.46875,D,,,,,,,,,,,46.5875,-111.95056,,,"46°35'15""","-112°02'58"""
+H113:2,Heuchera cylindrica var. glabella,,MT,Yes,9.85,10.1,9.975,1226.925,Use whole sample,Vacuum centrifuge then add 25 uL,D,,,,,,,,,,,46.5875,-111.95056,,,"46°35'15""","-112°02'58"""
+H114:2,Heuchera cylindrica var. glabella,,MT,,1.88,2.44,2.16,265.68,Use whole sample,Vacuum centrifuge then add 25 uL,B,,Dropped while open,3.19,3.2,,,,,,,46.9313889,-111.87833,,,"46°55'53""","-112°07'18"""
+H115:2,Heuchera cylindrica var. glabella,,MT,Yes,2.29,2.56,2.425,298.275,Use whole sample,Vacuum centrifuge then add 25 uL,C,,Fell in vaccume centrefuge,11.1,10.9,Folk,115,"Sun Canyon, MT",,,,47.61,-111.26139,,,"47°36'36""","-112°44'19"""
+H116:1,Heuchera cylindrica var. glabella,,MT,Yes,32.4,34.2,33.3,4095.9,15.01501502,9.984984985,D,,,,,,,,,,,47.603197,-112.760776,,,,
+H116:2,Heuchera cylindrica var. glabella,,MT,Yes,32.7,33.4,33.05,4065.15,15.12859304,9.871406959,D,,,,,,,,,,,47.603197,-112.760776,,,,
+H118:1,Heuchera cylindrica var. glabella,,MT,Yes,7.41,7.66,7.535,926.805,Use whole sample,Vacuum centrifuge then add 25 uL,C,,Fell in vaccume centrefuge,2.93,3.11,,,,,,,48.49193,-113.341832,,,,
+H118:2,Heuchera cylindrica var. glabella,,MT,,4.21,4.01,4.11,505.53,121.6545012,Vacuum centrifuge then add 25 uL,B,,Dropped while open,,,,,,,,,48.49193,-113.341832,,,,
+H121:1,Heuchera cylindrica var. glabella,,MT,Yes,13.3,14.4,13.85,1703.55,36.10108303,Vacuum centrifuge then add 25 uL,D,,,,,,,,,,,47.3161111,-113.19361,,,"47°18'58""","-114°48'23"""
+H121:2,Heuchera cylindrica var. glabella,,MT,Yes,13.1,13.2,13.15,1617.45,38.02281369,Vacuum centrifuge then add 25 uL,D,,,,,,,,,,,47.3161111,-113.19361,,,"47°18'58""","-114°48'23"""
+H122:2,Heuchera cylindrica var. cylindrica,,WA,,14.7,14.6,14.65,1801.95,34.12969283,Vacuum centrifuge then add 25 uL,B,,Dropped while open,,,Folk,122,"Sherman Pass, WA",,,,48.6072222,-117.52222,,,"48°36'26""","-118°28'40"""
+H123:2,Heuchera cylindrica var. cylindrica,,WA,Yes,13.2,13.7,13.45,1654.35,37.17472119,Vacuum centrifuge then add 25 uL,D,,,,,,,,,,,48.6255556,-117.32556,,,"48°37'32""","-118°40'28"""
+H124:1,Heuchera cylindrica var. glabella,,WA,Yes,10.1,10.4,10.25,1260.75,Use whole sample,Vacuum centrifuge then add 25 uL,D,,,,,,,,,,,47.2955556,-119.3,,,"47°17'44""","-120°42'00"""
+H124:2,Heuchera cylindrica var. glabella,,WA,Yes,14.7,15.3,15,1845,33.33333333,Vacuum centrifuge then add 25 uL,D,,,,,,,,,,,47.2955556,-119.3,,,"47°17'44""","-120°42'00"""
+H125:2,Heuchera cylindrica var. glabella,,WA,Yes,28.2,29.1,28.65,3523.95,17.45200698,7.547993019,D,,,,,Folk,125,"Standup Creek, WA",,,,47.3688889,-119.16139,,,"47°22'08""","-120°50'19"""
+H126,Mitella cf. trifida,,WA,Yes,52.2,51.9,52.05,6402.15,9.606147935,15.39385207,C,,Fell in vaccume centrefuge,,,,,,,,,47.3688889,-119.16139,,,,
+H129:1,Heuchera micrantha var. diversifolia f. acuta,,WA,Yes,10.3,9.59,9.945,1223.235,Use whole sample,Vacuum centrifuge then add 25 uL,C,,,,,,,,,,,48.8166667,-121.795,,,"48°49'00""","-122°12'18"""
+H129:2,Heuchera micrantha var. diversifolia f. acuta,,WA,Yes,13.8,13.2,13.5,1660.5,37.03703704,Vacuum centrifuge then add 25 uL,C,,,,,,,,,,,48.8166667,-121.795,,,"48°49'00""","-122°12'18"""
+H130:2,Tellima grandiflora,,WA,Yes,8.82,9.26,9.04,1111.92,Use whole sample,Vacuum centrifuge then add 25 uL,D,,,,,Folk,130,"Glacier Creek road, Mount Baker, WA, USA",,,,48.8630556,-120.09694,,,"48°51'47""","-121°54'11"""
+H131:1,Tolmiea menziesii,,WA,Yes,6.85,6.99,6.92,851.16,Use whole sample,Vacuum centrifuge then add 25 uL,D,,,,,Folk,131,"Glacier Creek road, Mount Baker, WA, USA",,,,48.8619444,-120.09639,,,"48°51'43""","-121°54'13"""
+H131:2,Tolmiea menziesii,,WA,Yes,30.7,37.5,34.1,4194.3,14.6627566,10.3372434,C,,Fell in vaccume centrefuge,10.1,9.67,Folk,131,"Glacier Creek road, Mount Baker, WA, USA",,,,48.8619444,-120.09639,,,"48°51'43""","-121°54'13"""
+H134:2,Heuchera micrantha var. diversifolia,,WA,,21.3,20,20.65,2539.95,24.21307506,0.7869249395,E,,,,,Folk,134,"Dry cliffs along Hwy 542 near Excelsior Camp, WA, USA",,,,48.9093917,-121.79867,,,"48°54'33.81"" N","121°47'55.20"" W"
+H136:2,Heuchera micrantha var. micrantha,,OR,Yes,7.46,7.1,7.28,895.44,Use whole sample,Vacuum centrifuge then add 25 uL,C,,Fell in vaccume centrefuge,14.7,14.2,,,,,,,45.5930556,-121.94194,,,"45°35'35""","-122°03'29"""
+H137:2,Heuchera glabra,,OR,Yes,6.33,6.74,6.535,803.805,Use whole sample,Vacuum centrifuge then add 25 uL,D,,,,,Folk,137,"Cloud Cap near Mt. Hood, OR",,,,45.4025,-120.34556,,,"45°24'09""","-121°39'16"""
+H138-C,Heuchera chlorantha,,OR,,7.3,6.67,6.985,859.155,71.58196135,Vacuum centrifuge then add 25 uL,x,,,,,Folk,138,"Along Hwy 35, OR",,,,45.4244444,-120.42639,,,"45°25'28""","-121°34'25"""
+H140:2,Heuchera cylindrica var. alpina,,OR,Yes,3.56,3.5,3.53,434.19,Use whole sample,Vacuum centrifuge then add 25 uL,D,,,,,Folk,140,"Cliffs above Deschutes River, OR",,,,45.5832944,-119.10306,,,"45°34'59.86""","-120°53'48.97"""
+H141:2,Heuchera micrantha var. micrantha,,OR,Yes,8.95,8.74,8.845,1087.935,Use whole sample,Vacuum centrifuge then add 25 uL,C,,,,,Folk,141,"Viento State Park, OR, USA",,,,45.6958333,-121.66861,,,"45°41'45"" N","121°40'07"" W"
+H143:2,Heuchera micrantha var. pacifica,,OR,Yes,12,12.2,12.1,1488.3,41.32231405,Vacuum centrifuge then add 25 uL,C,,,,,,,,,,,43.0255556,-123.91861,,,"43°01'32""","-124°04'53"""
+H145:2,Heuchera micrantha var. hartwegii,,OR,Yes,9.38,9.08,9.23,1135.29,Use whole sample,Vacuum centrifuge then add 25 uL,C,,,,,Folk,145,"Cliff along Hwy 101 (side of Humbug Mountain), OR, USA",,,,42.6841667,-124.42361,,,"42°41'03"" N","124°25'25"" W"
+H146:1,Heuchera micrantha var. macropetala,,OR,Yes,30.6,30.9,30.75,3782.25,16.2601626,8.739837398,C,,,,,Folk,146,"FS 2308 1 mi from Rd 23, Siskiyou Mts., OR, USA",,,,42.6052778,-123.85667,,,"42°36'19"" N","123°51'24"" W"
+H146:2,Heuchera micrantha var. macropetala,,OR,Yes,19.8,21.3,20.55,2527.65,24.33090024,0.6690997567,D,,,,,Folk,146,"FS 2308 1 mi from Rd 23, Siskiyou Mts., OR, USA",,,,42.6052778,-123.85667,,,"42°36'19"" N","123°51'24"" W"
+H148-C,Bensoniella oregona,,OR,,24.9,23.3,24.1,2964.3,20.74688797,4.253112033,x,,,,,Folk,148,"FS Rd 23, near Bear Camp, Siskiyou Mts, OR",,,,42.6113889,-122.19306,,,"42°36'41""","-123°48'25"""
+H149:2,Heuchera micrantha var. erubescens,,OR,Yes,5.06,5.44,5.25,645.75,Use whole sample,Vacuum centrifuge then add 25 uL,D,,,,,,,,,,,42.6108333,-122.19472,,,"42°36'39""","-123°48'19"""
+H150:2,Heuchera merriamii,,CA,Yes,4.67,4.98,4.825,593.475,Use whole sample,Vacuum centrifuge then add 25 uL,D,,,,,Folk,150,"Outcrops above Little Castle Lake, CA, USA",,,,41.2215806,-122.37182,,,"41°13'17.69"" N","122°22'18.56"" W"
+H154:2,Heuchera grossulariifolia var. grossulariifolia,,ID,Yes,27.8,28.3,28.05,3450.15,17.82531194,7.174688057,D,,,,,Folk,154,"Cliffs above Shaw Mountain Road near Boise, ID, USA",,,,43.6305556,-116.70806,,,"43°37'50"" N","116°42'29"" W"
+H155:2,Heuchera grossulariifolia var. grossulariifolia,,ID,Yes,31.7,32.3,32,3936,15.625,9.375,D,,,,,,,,,,,43.8991667,-114.29194,,,"43°53'57""","-115°42'29"""
+H157:2,Heuchera grossulariifolia var. grossulariifolia,,ID,Yes,22.8,24,23.4,2878.2,21.36752137,3.632478632,D,,,,,,,,,,,44.1163889,-114.59194,,,"44°06'59""","-115°24'29"""
+H158:2,Heuchera grossulariifolia var. grossulariifolia,,ID,Yes,8.42,8.83,8.625,1060.875,Use whole sample,Vacuum centrifuge then add 25 uL,D,,,,,,,,,,,44.9588889,-115.79028,,,"44°57'32""","-116°12'35"""
+H160:2,Heuchera grossulariifolia var. grossulariifolia,,ID,Yes,TOO LOW,TOO LOW,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,x,,,,,Folk,160,"Cliff above roadside parking lot outside of Riggins, ID, USA",,,,45.4111111,-116.32639,,,"45°24'40"" N","116°19'35"" W"
+H162:2,Heuchera rubescens var. rubescens,,ID,Yes,17.9,18.1,18,2214,27.77777778,Vacuum centrifuge then add 25 uL,D,,,,,,,,,,,42.0958333,-110.48194,,,"42°05'45""","-111°31'05"""
+H164:2,Heuchera bracteata,,WY,Yes,6.25,6.87,6.56,806.88,Use whole sample,Vacuum centrifuge then add 25 uL,D,,,,,Folk,164,"Outcrops along Vedauwoo Glen Rd., WY",,,,41.1538889,-104.62333,,,"41°09'14""","-105°22'36"""
+H166:2,Heuchera richardsonii,,IA,,22.4,22,22.2,2730.6,22.52252252,2.477477477,x,,Corrected from H116:2,,,Folk,166,"Roadside near Ledges State Park, IA, USA",,,,41.9966667,-93.883611,,,"41°59'48"" N","93°53'01"" W"
+H173:4,Heuchera missouriensis,,IL,,123,129,126,15498,3.968253968,21.03174603,A,1/20/2020,,,,Folk,173,"0.25 from parking area along trail through Round Bluff Nature Preserve, Ferne Clyffe State Park",,,,37.5316833,-88.978983,,,"37°31.901"" N","88°58.739"" W"
+H174:4,Heuchera missouriensis,,IL,,119,124,121.5,14944.5,4.115226337,20.88477366,E,,,,,Folk,174,"Boat Rock Picnic Area, on ""Boat Rock,"" Ferne Clyffe State Park",,,,37.5422,-88.98095,,,"37°32.532"" N","88°58.857"" W"
+H175:4,Heuchera missouriensis,,IL,Yes,52.3,50.6,51.45,6328.35,9.718172983,15.28182702,D,,,,,Folk,175,"Rockhouse above Stonefort Road, Giant City State Park",,,,37.62245,-89.19665,,,"37°37.347"" N","89°11.799"" W"
+H176:4,Heuchera missouriensis,,IL,,103,111,107,13161,4.672897196,20.3271028,A,1/20/2020,,,,Folk,176,"Bluffs directly above parking lot for Fern Rocks Nature Preserve, Giant City State Park",,,,37.625,-89.203433,,,"37°37.500"" N","89°12.206"" W"
+H177:2,Heuchera americana var. hirsuticaulis,,IL,,33.2,32.9,33.05,4065.15,15.12859304,9.871406959,x,,,,,,,,,,,37.5415333,-89.426917,,,37°32.492'N,89°25.615'W
+H181:2,Heuchera puberula,,MO,Yes,4.1,4.2,4.15,510.45,Use whole sample,Vacuum centrifuge then add 25 uL,C,,,,,,,,,,,36.9507167,-90.992283,,,"36°57.043"" N","90°59.537"" W"
+H181:4,Heuchera puberula,,MO,,93.8,99.1,96.45,11863.35,5.184033178,19.81596682,A,1/20/2020,,,,,,,,,,36.9507167,-90.992283,,,"36°57.043"" N","90°59.537"" W"
+H182:4,Heuchera puberula f. glabrata,,MO,Yes,55.3,52.4,53.85,6623.55,9.285051068,15.71494893,C,,,,,,,,,,,37.15075,-91.440317,,,"37°09.045"" N","91.26.419"" W"
+H183:4,Heuchera puberula f. glabrata,,MO,,38.1,39.4,38.75,4766.25,12.90322581,12.09677419,A,1/20/2020,,,,,,,,,,37.2808,-91.4137,,,37°16.848'N,91°24.822'W
+H184:4,Heuchera puberula,,MO,,57.2,57.4,57.3,7047.9,8.72600349,16.27399651,E,,,,,Folk,184,"Greer Spring, bottom of stairs to creek-side",,,,36.77975,-91.345883,,,36°46.785'N,91°20.753'W
+H185:4,Heuchera puberula,,MO,,71.2,67.2,69.2,8511.6,7.225433526,17.77456647,A,1/20/2020,,,,Folk,185,Cliffs above source of spring at Turner Mill,,,,36.7660167,-91.267217,,,36°45.961'N,91.16.033'W
+H186:4,Heuchera puberula f. glabrata,,MO,,42.7,44.5,43.6,5362.8,11.46788991,13.53211009,E,,,,,Folk,186,Outcrop on side of SR AP just north of Noblett Lake,,,,36.9236167,-92.096333,,,36°55.417'N,92°05.780'W
+H187:4,Heuchera puberula f. glabrata,,MO,,63.5,70.1,66.8,8216.4,7.48502994,17.51497006,A,1/20/2020,,,,,,,,,,36.90765,-92.07955,,,36°54.459'N,92°04.773'W
+H188:4,Heuchera puberula f. glabrata,,MO,,92.2,94.3,93.25,11469.75,5.361930295,19.63806971,A,1/20/2020,,,,Folk,188,"Cliff along parking lot, Mineral Springs Fishing Access",,,,37.3628833,-91.9693,,,37°21.773'N,91°58.158'W
+H189:4,Heuchera puberula,,AR,,38.8,40.4,39.6,4870.8,12.62626263,12.37373737,,2/1/20,2/1/20 has date but no rack #,,,Folk,189,Cliffs beside picnic area at Blanchard Springs Recreation Area,,,,35.9692167,-92.173517,,,35°58.153'N,92°10.411'W
+H190:4,Heuchera puberula,,AR,Yes,20.7,20.5,20.6,2533.8,24.27184466,0.7281553398,C,,,,,,,,,,,35.9588333,-92.175433,,,35°57.530'N,92°10.526'W
+H191:4,Heuchera puberula,,AR,,46.7,48.6,47.65,5860.95,10.49317943,14.50682057,E,,,,,,,,,,,35.9860833,-92.47925,,,35°59.165'N,92°28.755'W
+H192:2,Heuchera villosa var. arkansana,,AR,,57.7,57.9,57.8,7109.4,8.650519031,16.34948097,E,,,,,Folk,192,"Weddington Gap, AR, USA",,,,36.1051167,-94.390267,,,36°06.307' N,94°23.416' W
+H192:3,Heuchera villosa var. arkansana,,AR,Yes,9.74,10.5,10.12,1244.76,Use whole sample,Vacuum centrifuge then add 25 uL,D,,,,,Folk,192,"Weddington Gap, AR, USA",,,,36.1051167,-94.390267,,,36°06.307' N,94°23.416' W
+H192:4,Heuchera villosa var. arkansana,,AR,Yes,4.6,4.96,4.78,587.94,Use whole sample,Vacuum centrifuge then add 25 uL,D,,,,,Folk,192,"Weddington Gap, AR, USA",,,,36.1051167,-94.390267,,,36°06.307' N,94°23.416' W
+H194:2,Heuchera villosa var. macrorhiza,,KY,,65.9,62.5,64.2,7896.6,7.788161994,17.21183801,B,,,,,,,,,,,37.8562469,-83.677649,,,37°51'22.489'N,83°40'39.535'W
+H197:4,Heuchera parviflora var. parviflora,,KY,,148,153,150.5,18511.5,3.322259136,21.67774086,E,,,,,,,,,,,37.7702083,-83.566961,,,37°46'12.750'N,83°34'01.059'W
+H198:4,Heuchera parviflora var. parviflora,,KY,,174,181,177.5,21832.5,2.816901408,22.18309859,A,1/20/2020,,,,Folk,198,"Rockhouse above Gray's Arch trail, 0.25 mi past the arch, Daniel Boone National Forest",,,,37.8081556,-83.657641,,,37°48'29.360'N,83°39'27.509'W
+H200:4,Heuchera parviflora var. parviflora,,KY,,169,173,171,21033,2.923976608,22.07602339,A,1/20/2020,,,,Folk,200,Rockhouse beside Anglin Falls,,,,37.4933508,-84.22659,,,37°29'36.063'N,"84°13'35.723""W"
+H201:4,Heuchera parviflora var. parviflora,,KY,,272,313,292.5,35977.5,1.709401709,23.29059829,A,1/20/2020,,,,Folk,201,"Rockhouse 0.25 mi along trail to Box Canyon, Carter Caves State Park",,,,38.3556319,-83.111851,,,38°21'20.275'N,83°6'42.665'W
+H203:4,Heuchera parviflora var. parviflora,,KY,,100,105,102.5,12607.5,4.87804878,20.12195122,A,1/20/2020,,,,Folk,203,"0.1 mi downstream of falls along visitor's center trail, Cumberland Falls State Park",,,,36.8372639,-84.343222,,,36°50'14.150'N,84°20'35.599'W
+H204:3,Heuchera parviflora var. parviflora,,KY,,110,114,112,13776,4.464285714,20.53571429,A,1/20/2020,,,,Folk,204,"Honeymoon Falls Trail, 0.25 mi from road, Pine Mountain State Park",,,,36.7379806,-83.74075,,,36°44'16.730'N,83°44'26.700'W
+H204:4,Heuchera parviflora var. parviflora,,KY,,103,105,104,12792,4.807692308,20.19230769,E,,,,,Folk,204,"Honeymoon Falls Trail, 0.25 mi from road, Pine Mountain State Park",,,,36.7379806,-83.74075,,,36°44'16.730'N,83°44'26.700'W
+H205:4,Heuchera parviflora var. parviflora,,TN,,105,109,107,13161,4.672897196,20.3271028,E,,,,,Folk,205,"Rockhouse below Store 14 Rd near intersection with Tar Kiln Road, Pickett State Forest",,,,36.5810922,-84.833408,,,36°34'51.932'N,84°50'00.269'W
+H207:4,Heuchera parviflora var. parviflora,,TN,,67.6,60.9,64.25,7902.75,7.782101167,17.21789883,A,1/20/2020,,,,Folk,207,"Roadside rockhouse, along Hwy 52 just W of Roadside Table, W of Jamestown",,,,36.4414822,-84.961229,,,36°26'29.336'N,84°57'40.423'W
+H210:4,Heuchera missouriensis,,TN,,92.2,94.7,93.45,11494.35,5.350454789,19.64954521,E,,,,,Folk,210,"Side of Snoopers Rock, Prentice Cooper State Forest",,,,35.1016522,-85.429128,,,35°06'05.948'N,85°25'44.859'W
+H211:4,Heuchera missouriensis,,TN,,23.5,25.3,24.4,3001.2,20.49180328,4.508196721,A,1/20/2020,,,,Folk,211,Foster Falls trail 0.75 mi past Foster Falls from parking area,,,,35.1825294,-85.673918,,,35°10'57.106'N,85°40'26.106'W
+H212:4,Heuchera parviflora var. parviflora,,TN,,102,111,106.5,13099.5,4.694835681,20.30516432,A,1/20/2020,,,,Folk,212,"Fiery Gizzard Trail, rockhouse immediately below Grundy State Forest parking area",,,,35.2517336,-85.747382,,,35°15'06.241'N,85°44'50.575'W
+H213:4,Heuchera missouriensis,,TN,,114,106,110,13530,4.545454545,20.45454545,A,1/20/2020,,,,Folk,213,Sewanee Natural Bridge Trail 0.1 mi past bridge along trail from the parking area,,,,35.1537725,-85.921924,,,35°09'13.581'N,85°55'18.928'W
+H214:2,Heuchera americana var. americana,,TN,,36.7,36.3,36.5,4489.5,13.69863014,11.30136986,,1/31/2020,,,,,,,,,,35.1537725,-85.921924,,,35°09'13.581'N,85°55'18.928'W
+H215:4,Heuchera parviflora var. parviflora,,KY,,85.4,87.1,86.25,10608.75,5.797101449,19.20289855,E,,,,,Folk,215,"First sandstone bluff above Knobby Rock Trail from parking area, Blanton Woods",,,,35.8622667,-82.846424,,,35°51'44.160'N,82°50'47.127'W
+H216:2,Heuchera caroliniana,,SC,,54.4,53.3,53.85,6623.55,9.285051068,15.71494893,B,,,,,Folk,216,"Bank along Rocky Creek, intersection with Hwy 97, SC",,,,34.5482083,-80.840684,,,"34°32'53.550""","80°50'26.464"""
+H217:4,Heuchera missouriensis,,AL,,77.7,80.4,79.05,9723.15,6.325110689,18.67488931,E,,,,,Folk,217,Rockhouse near Black Creek Falls,,,,34.041468,-86.02128,,,,
+H218:2,Heuchera missouriensis,,AL,Yes,58.4,57.2,57.8,7109.4,8.650519031,16.34948097,C,,,,,,,,,,,34.395067,-85.626911,,,,
+H218:3,Heuchera missouriensis,,AL,,23.1,21.5,22.3,2742.9,22.42152466,2.578475336,A,2/1/20,,,,,,,,,,34.395067,-85.626911,,,,
+H218:4,Heuchera missouriensis,,AL,Yes,58.9,56.4,57.65,7090.95,8.673026886,16.32697311,C,,,,,,,,,,,34.395067,-85.626911,,,,
+H220:4,Heuchera missouriensis,,AL,Yes,63.2,61,62.1,7638.3,8.051529791,16.94847021,C,,,,,Folk,220,Rockhouse along CR 60 near Sispey River Picnic Area,,,,34.2855342,-87.398618,,,34°17'07.923'N,87°23'55.024'W
+H221:4,Heuchera missouriensis,,AL,,40.8,41.7,41.25,5073.75,12.12121212,12.87878788,E,,,,,Folk,221,Rockhouse along CR 3 0.25 mi short of dead end,,,,34.3408219,-87.47452,,,34°20'26.959'N,87°28'28.271'W
+H222:4,Heuchera puberula,,AR,,30,32.2,31.1,3825.3,16.07717042,8.922829582,A,1/20/2020,,,,,,,,,,36.0060614,-92.046855,,,36°00'21.821'N,92°2'48.679'W
+H223:4,Heuchera puberula,,AR,Yes,2.96,3.27,3.115,383.145,Use whole sample,Vacuum centrifuge then add 25 uL,C,,Fell in vaccume centrefuge,4.22,4.23,Folk,223,"1/3 mi downstream of Gunner Pool Road's bridge over Sylamore Creek, Gunner Pool Recreation Area",,,,35.9963178,-92.213088,,,35°59'46.744'N,92°12'47.118W
+H224:4,Heuchera puberula,,AR,Yes,8.64,9.46,9.05,1113.15,Use whole sample,Vacuum centrifuge then add 25 uL,C,,Fell in vaccume centrefuge,4.49,4.57,,,,,,,36.1389981,-92.31618,,,36°08'20.393'N,92°18'58.248'W
+H225:4,Heuchera missouriensis,,KY,,67.8,76.6,72.2,8880.6,6.925207756,18.07479224,E,,,,,Folk,225,Foster Falls trail 0.75 mi past Foster Falls from parking area,,,,37.1462231,-87.752115,,,37°08'46.403'N,87°45'07.614'W
+H226:4,Heuchera missouriensis,,KY,Yes,19,18.3,18.65,2293.95,26.80965147,Vacuum centrifuge then add 25 uL,C,,,,,Folk,226,"Along Hwy 62, NW side of bridge over Clifty Creek",,,,37.5246667,-86.17638,,,37°31'28.800'N,86°10'34.969'W
+H227:4,Heuchera missouriensis,,KY,,47.5,48.2,47.85,5885.55,10.44932079,14.55067921,E,,,,,Folk,227,Along Kentucky 728 NW of Nolin Dam,,,,37.2788247,-86.251023,,,37°16'43.769'N,86°15'03.682'W
+H228:4,Heuchera missouriensis,,KY,,68.5,69.4,68.95,8480.85,7.251631617,17.74836838,E,,,,,Folk,228,"0.25 mi along trail from parking, Shanty Hollow",,,,37.1446842,-86.38404,,,37°08'40.863'N,86°23'02.543'W
+H229:4,Heuchera parviflora var. saurensis,,NC,,25.5,25.1,25.3,3111.9,19.76284585,5.23715415,A,1/20/2020,,,,Folk,229,"Cliffs at base of Lower Cascade Falls, Hanging Rock State Park",,,,36.4146914,-80.264972,,,36°24'52.889'N,80°15'53.898'W
+H229:5,Heuchera parviflora var. saurensis,,NC,,56.6,56.6,56.6,6961.8,8.833922261,16.16607774,A,1/20/2020,,,,Folk,229,"Cliffs at base of Lower Cascade Falls, Hanging Rock State Park",,,,36.4146914,-80.264972,,,36°24'52.889'N,80°15'53.898'W
+H229:6,Heuchera parviflora var. parviflora,,NC,,8.38,9.98,9.18,1129.14,54.46623094,Vacuum centrifuge then add 25 uL,x,,Was mislabelled H239:6 THEN H230:6 ****I think supposed to be H229:6,49.6,50.2,Folk,229,"Cliffs at base of Lower Cascade Falls, Hanging Rock State Park",,,,36.4146914,-80.264972,,,36°24'52.889'N,80°15'53.898'W
+H230:4,Heuchera parviflora var. parviflora,,NC,,16.1,31.5,23.8,2927.4,21.00840336,3.991596639,A,1/20/2020,,,,Folk,230,"Rockhouse behind waterfall, side of Cold Mountain Road several miles from Toxaway",,,,35.1594042,-82.973663,,,35°09'33.855'N,82°58'25.185'W
+H230:5,Heuchera parviflora var. parviflora,,NC,,18.4,19.8,19.1,2349.3,26.17801047,Vacuum centrifuge then add 25 uL,A,1/20/2020,,,,Folk,230,"Rockhouse behind waterfall, side of Cold Mountain Road several miles from Toxaway",,,,35.1594042,-82.973663,,,35°09'33.855'N,82°58'25.185'W
+H230:6,Heuchera parviflora var. parviflora,,NC,Yes,34.5,33.4,33.95,4175.85,14.7275405,10.2724595,C,,,,,Folk,230,"Rockhouse behind waterfall, side of Cold Mountain Road several miles from Toxaway",,,,35.1594042,-82.973663,,,35°09'33.855'N,82°58'25.185'W
+H230:7,Heuchera parviflora var. parviflora,,NC,,14.3,15.1,14.7,1808.1,34.01360544,Vacuum centrifuge then add 25 uL,A,1/20/2020,,,,Folk,230,"Rockhouse behind waterfall, side of Cold Mountain Road several miles from Toxaway",,,,35.1594042,-82.973663,,,35°09'33.855'N,82°58'25.185'W
+H230:8,Heuchera parviflora var. parviflora,,NC,Yes,2.52,2.5,2.51,308.73,Use whole sample,Vacuum centrifuge then add 25 uL,C,,Fell in vaccume centrefuge,,,Folk,230,"Rockhouse behind waterfall, side of Cold Mountain Road several miles from Toxaway",,,,35.1594042,-82.973663,,,35°09'33.855'N,82°58'25.185'W
+H230:9,Heuchera parviflora var. parviflora,,NC,,26.5,26.1,26.3,3234.9,19.01140684,5.988593156,A,1/20/2020,,,,Folk,230,"Rockhouse behind waterfall, side of Cold Mountain Road several miles from Toxaway",,,,35.1594042,-82.973663,,,35°09'33.855'N,82°58'25.185'W
+H231:4,Heuchera parviflora var. parviflora,,NC,Yes,36.4,34.8,35.6,4378.8,14.04494382,10.95505618,C,,,,,Folk,231,"Rockhouse above Paradise Falls near Wolf Creek Dam, below Hwy 281",,,,35.2255206,-83.003488,,,35°13'31.874'N,83°00'12.557'W
+H232:4,Heuchera parviflora var. saurensis,,NC,Yes,53.9,52.2,53.05,6525.15,9.425070688,15.57492931,D,,,,,Folk,232,"Side of Table Rock Mountain, 1/4 mi along trail from parking area",,,,35.8864519,-81.884293,,,35°53'11.227'N,81°53'3.456'W
+H232:5,Heuchera parviflora var. saurensis,,NC,,104,111,107.5,13222.5,4.651162791,20.34883721,A,1/20/2020,,,,,,,,,,35.8864519,-81.884293,,,35°53'11.227'N,81°53'3.456'W
+H246,Heuchera americana var. americana,,OH,,38.3,37.4,37.85,4655.55,13.21003963,11.78996037,,1/31/2020,Called ALUM in notebook,,,,,,,,,40.267491,82.951414,,,,
+H32:2,Heuchera inconstans,,AZ,Yes,22.7,24.3,23.5,2890.5,21.27659574,3.723404255,D,done,,,,,,,,,,35.0352778,-110.14056,,,"35°02'07""","-111°51'34"""
+H59:2,Heuchera americana var. hirsuticaulis,,MO,,14.4,11.2,12.8,1574.4,39.0625,Vacuum centrifuge then add 25 uL,x,done,,,,Folk,59,"Roadside woods off Hwy 19, Mark Twain NF, Shannon Co. MO",,,,37.39023,-91.45272,,,37.39023°,-91.45272°
+H61:1,Heuchera americana var. hirsuticaulis,,MO,,39.1,39.6,39.35,4840.05,12.7064803,12.2935197,,1/31/2020,,,,,,,,,,36.94794,-90.99215,,,36.94794°,90.99215°
+H62:2,Heuchera americana var. hirsuticaulis,,MO,,24.1,23.8,23.95,2945.85,20.87682672,4.123173278,,1/31/2020,,,,,,,,,,37.19118,-89.63458,,,,
+H62:3,Heuchera americana var. hirsuticaulis,,MO,,14.6,14.4,14.5,1783.5,34.48275862,Vacuum centrifuge then add 25 uL,x,done,,,,,,,,,,37.19118,-89.63458,,,,
+H62:4,Heuchera americana var. hirsuticaulis,,MO,,23.8,22.8,23.3,2865.9,21.45922747,3.540772532,,1/31/2020,,,,,,,,,,37.19118,-89.63458,,,,
+H62:5,Heuchera americana var. hirsuticaulis,,MO,,61.7,59.5,60.6,7453.8,8.250825083,16.74917492,x,done,,,,,,,,,,37.19118,-89.63458,,,,
+H62:6,Heuchera americana var. hirsuticaulis,,MO,,20.8,20.3,20.55,2527.65,24.33090024,0.6690997567,x,done,,,,,,,,,,37.19118,-89.63458,,,,
+H72:3,Heuchera parviflora var. parviflora,,KY,Yes,12.5,12,12.25,1506.75,40.81632653,Vacuum centrifuge then add 25 uL,C,,,,,Folk,72,"Natural Bridge State Park, KY, USA",,,,37.7739806,-83.680942,,,"37°46'26.33"" N","83°40'51.39"" W"
+H79:4,Heuchera parviflora var. parviflora,,OH,Yes,14.1,20.6,17.35,2134.05,28.8184438,Vacuum centrifuge then add 25 uL,x,,Merged with Legacy DNA's rack for library process,14.6,14.8,Folk,79,"Vesuvius Lake, rockhouse above picnic area next to the dam",,,,38.607075,-82.628467,,,"38°36'25.47"" N","82°37'42.48"" W"
+H79:5,Heuchera parviflora var. parviflora,,OH,Yes,18.4,17.5,17.95,2207.85,27.8551532,Vacuum centrifuge then add 25 uL,C,,,,,Folk,79,"Vesuvius Lake, rockhouse above picnic area next to the dam",,,,38.607075,-82.628467,,,"38°36'25.47"" N","82°37'42.48"" W"
+H97:10,Heuchera parviflora var. saurensis,,NC,Yes,23.8,23.2,23.5,2890.5,21.27659574,3.723404255,C,,,,,Folk,97,"Side of the big knob, Pilot Mountain State Park",Surry,NC,,36.340181,-80.474366,,,,
+H97:6,Heuchera parviflora var. saurensis,,NC,Yes,36.6,35.5,36.05,4434.15,13.86962552,11.13037448,C,,,,,Folk,97,"Side of the big knob, Pilot Mountain State Park",Surry,NC,,36.340181,-80.474366,,,,
+H97:7,Heuchera parviflora var. saurensis,,NC,Yes,46.4,46.1,46.25,5688.75,10.81081081,14.18918919,D,,,,,Folk,97,"Side of the big knob, Pilot Mountain State Park",Surry,NC,,36.340181,-80.474366,,,,
+H97:8,Heuchera parviflora var. saurensis,,NC,Yes,13.6,14,13.8,1697.4,36.23188406,Vacuum centrifuge then add 25 uL,D,,,,,Folk,97,"Side of the big knob, Pilot Mountain State Park",Surry,NC,,36.340181,-80.474366,,,,
+H97:9,Heuchera parviflora var. saurensis,,NC,Yes,61.8,57.9,59.85,7361.55,8.354218881,16.64578112,C,,,,,Folk,97,"Side of the big knob, Pilot Mountain State Park",Surry,NC,,36.340181,-80.474366,,,,
+I100-C,Heuchera inconstans,,AZ,,25.8,23.8,24.8,3050.4,20.16129032,4.838709677,,1/31/2020,,,,,,"West of AZ Hwy. 89A in Sterling Canyon, a tributary of Oak Creek Canyon, 35.0244 -111.7429, Coconino County, Arizona, 11 Apr 2014. Maianthemum racemosum, Antennaria marginata, Senecio arizonicus, Taraxacum officinale, Symphoricarpos rotundifolius, Paxistima myrsinites, Quercus gambelii, Quercus palmeri, Geranium caespitosum, Ribes cereum, Goodyera oblongifolia, Pinus ponderosa, Pseudotsuga menziesii, Polypodium hesperium, Thalictrum fendleri, Holodiscus dumosus, Prunus virginiana, Heuchera parvifolia var. arizonica, Heuchera rubescens, Viola canadensis, etc. Both Heuchera fairly common and scattered throughout this section of the canyon, mostly in cracks in open sandstone or in mats of moss on the cliffs.",Coconino,AZ,,35.0244,-111.7429,,,,
+I108-C,Heuchera soltisii,,NM,,10.8,10.1,10.45,1285.35,47.84688995,Vacuum centrifuge then add 25 uL,x,,,,,,,"Indian Hollow, Organ Mountains",Doña Ana,NM,,32.35199,-106.54712,,,,
+I2,Heuchera americana var. americana,,OH,,13.6,13.5,13.55,1666.65,36.900369,Vacuum centrifuge then add 25 uL,x,,,,,,,,,,,41.174476,-84.256819,,,,
+I59-C,Heuchera pilosissima,,CA,,41,38.4,39.7,4883.1,12.59445844,12.40554156,x,,,,,Folk,I-59,"Marshall, Marin Co., CA, USA",Marin,CA,,38.156022,-122.891765,,,,
+I60-C,Tellima grandiflora,,CA,,20.8,19,19.9,2447.7,25.12562814,Vacuum centrifuge then add 25 uL,x,done,,,,,,"Marshall, Marin Co., CA, USA",Marin,CA,,38.154761,-122.890719,,,,
+I90-C,Heuchera inconstans,,AZ,,25,22.9,23.95,2945.85,20.87682672,4.123173278,,1/31/2020,called COC in notebook,,,,,"Coconino County, Oak Creek Canyon, just above Call of the Canyon on the east side. Elevation 1676 m (5500 ft). Mixed conifer forest, on steep terraine with sandstone ledges. Sandy soils derived from Coconino Sanstone, mixed with conifer duff. Perennial herb, occasional on or near exposed sandstone. Associated species: Pinus ponderosa, Abies concolor, Pseudotsuga menziesii, Holodiscus dumosa, Senecio arizonicus, Valeriana arizonica, Draba asprella. Max Licher 4247, 5 April 2013 [barely in infl].",Coconino,AZ,,34.99126,-111.73521,,,,
+I99-C,Heuchera eastwoodiae,,AZ,,25.6,24.7,25.15,3093.45,19.88071571,5.119284294,,1/31/2020,,,,,,,,,,34.4276,-112.4298,,,,
+L1-3,Heuchera longiflora var. aceroides,,NC,Yes,17.2,18.5,17.85,2195.55,28.01120448,Vacuum centrifuge then add 25 uL,C,,,,,Folk,L-1,,,,,35.7467139,-82.872478,,,"35°44'48.17""N","82°52'20.92""W"
+L1-4,Heuchera longiflora var. aceroides,,NC,Yes,28.9,27.9,28.4,3493.2,17.6056338,7.394366197,C,,,,,Folk,L-1,,,,,35.7467139,-82.872478,,,"35°44'48.17""N","82°52'20.92""W"
+L11-3,Heuchera longiflora var. longiflora,,KY,Yes,7.01,7.7,7.355,904.665,Use whole sample,Vacuum centrifuge then add 25 uL,C,,Fell in vaccume centrefuge,9.48,9.26,Folk,L-11,,,,,38.0242556,-83.713053,,,"38° 1'27.32""N","83°42'46.99""W"
+L11-4,Heuchera longiflora var. longiflora,,KY,Yes,15,14.9,14.95,1838.85,33.44481605,Vacuum centrifuge then add 25 uL,C,,,,,Folk,L-11,,,,,38.0242556,-83.713053,,,"38° 1'27.32""N","83°42'46.99""W"
+L12-3,Heuchera longiflora var. longiflora,,KY,Yes,2.59,2.51,2.55,313.65,Use whole sample,Vacuum centrifuge then add 25 uL,C,,,,,Folk,L-12,,,,,38.1094472,-83.465361,,,"38° 6'34.01""N","83°27'55.30""W"
+L12-4,Heuchera longiflora var. longiflora,,KY,Yes,3.14,3.22,3.18,391.14,Use whole sample,Vacuum centrifuge then add 25 uL,C,,,,,Folk,L-12,,,,,38.1094472,-83.465361,,,"38° 6'34.01""N","83°27'55.30""W"
+L13-3,Heuchera longiflora var. longiflora,,KY,Yes,8.64,8.18,8.41,1034.43,Use whole sample,Vacuum centrifuge then add 25 uL,C,,,,,Folk,L-13,,,,,38.1203222,-83.237625,,,"38° 7'13.16""N","83°14'15.45""W"
+L13-4,Heuchera longiflora var. longiflora,,KY,,19.8,17.8,18.8,2312.4,26.59574468,Vacuum centrifuge then add 25 uL,F,,,,,Folk,L-13,,,,,38.1203222,-83.237625,,,"38° 7'13.16""N","83°14'15.45""W"
+L15-3,Heuchera longiflora var. longiflora,,KY,,14.8,10.8,12.8,1574.4,39.0625,Vacuum centrifuge then add 25 uL,F,,,,,Folk,L-15,,,,,38.1202972,-82.689297,,,"38° 7'13.07""N","82°41'21.47""W"
+L16-3,Heuchera longiflora var. longiflora,,KY,,12.9,12,12.45,1531.35,40.16064257,Vacuum centrifuge then add 25 uL,F,,,,,Folk,L-16,,,,,37.9456444,-82.868289,,,"37°56'44.32""N","82°52'5.84""W"
+L17-3,Heuchera longiflora var. longiflora,,KY,Yes,4.59,4.61,4.6,565.8,Use whole sample,Vacuum centrifuge then add 25 uL,C,,,,,Folk,L-17,,,,,37.5719167,-82.552183,,,"37°34'18.90""N","82°33'7.86""W"
+L17-4,Heuchera longiflora var. longiflora,,KY,,14.7,13,13.85,1703.55,36.10108303,Vacuum centrifuge then add 25 uL,F,,Changed L17-7 to L17-4,,,Folk,L-17,,,,,37.5719167,-82.552183,,,"37°34'18.90""N","82°33'7.86""W"
+L18-3,Heuchera longiflora var. longiflora,,KY,Yes,5.77,6.41,6.09,749.07,Use whole sample,Vacuum centrifuge then add 25 uL,D,,,,,Folk,L-18,,,,,37.4021167,-82.469044,,,"37°24'7.62""N","82°28'8.56""W"
+L19-3,Heuchera longiflora var. longiflora,,KY,Yes,24.2,23.6,23.9,2939.7,20.92050209,4.079497908,C,,,,,Folk,L-19,,,,,37.1404389,-86.384603,,,"37° 8'25.58""N","86°23'4.57""W"
+L19-4,Heuchera longiflora var. longiflora,,KY,,20.4,18.7,19.55,2404.65,25.57544757,Vacuum centrifuge then add 25 uL,F,,,,,Folk,L-19,,,,,37.1404389,-86.384603,,,"37° 8'25.58""N","86°23'4.57""W"
+L2-3,Heuchera longiflora var. aceroides,,NC,Yes,9.81,9.52,9.665,1188.795,Use whole sample,Vacuum centrifuge then add 25 uL,C,,,,,Folk,L-2,,,,,35.7844306,-82.871331,,,"35°47'3.95""N","82°52'16.79""W"
+L20-3,Heuchera longiflora var. longiflora,,KY,Yes,20.9,21.1,21,2583,23.80952381,1.19047619,C,,,,,Folk,L-20,,,,,37.6304667,-83.770767,,,"37°37'49.68""N","83°46'14.76""W"
+L21-3,Heuchera longiflora var. longiflora,,KY,Yes,41.5,39.9,40.7,5006.1,12.28501229,12.71498771,C,,,,,Folk,L-21,,,,,36.9511944,-82.881661,,,"36°57'4.30""N","82°52'53.98""W"
+L21-4,Heuchera longiflora var. longiflora,,KY,,13.3,11.9,12.6,1549.8,39.68253968,Vacuum centrifuge then add 25 uL,F,,,,,Folk,L-21,,,,,36.9511944,-82.881661,,,"36°57'4.30""N","82°52'53.98""W"
+L22-3,Heuchera longiflora var. longiflora,,KY,Yes,4.1,4.33,4.215,518.445,Use whole sample,Vacuum centrifuge then add 25 uL,D,,,,,Folk,L-22,,,,,37.102275,-82.968672,,,"37° 6'8.19""N","82°58'7.22""W"
+L22-4,Heuchera longiflora var. longiflora,,KY,Yes,5.06,5.35,5.205,640.215,Use whole sample,Vacuum centrifuge then add 25 uL,D,,,,,Folk,L-22,,,,,37.102275,-82.968672,,,"37° 6'8.19""N","82°58'7.22""W"
+L3-3,Heuchera longiflora var. aceroides,,NC,,6.42,5.83,6.125,753.375,81.63265306,Vacuum centrifuge then add 25 uL,F,,,,,Folk,L-3,,,,,35.92865,-82.750078,,,"35°55'43.14""N","82°45'0.28""W"
+L3-4,Heuchera longiflora var. aceroides,,NC,,8.16,7.27,7.715,948.945,64.808814,Vacuum centrifuge then add 25 uL,F,,,,,Folk,L-3,,,,,35.92865,-82.750078,,,"35°55'43.14""N","82°45'0.28""W"
+L4-3,Heuchera longiflora var. aceroides,,NC,Yes,45.6,46.3,45.95,5651.85,10.88139282,14.11860718,C,,,,,Folk,L-4,,,,,35.9523583,-82.717192,,,"35°57'8.49""N","82°43'1.89""W"
+L4-4,Heuchera longiflora var. aceroides,,NC,,15,12.6,13.8,1697.4,36.23188406,Vacuum centrifuge then add 25 uL,F,,,,,Folk,L-4,,,,,35.9523583,-82.717192,,,"35°57'8.49""N","82°43'1.89""W"
+L6-3,Heuchera longiflora var. longiflora,,KY,Yes,18.2,17.6,17.9,2201.7,27.93296089,Vacuum centrifuge then add 25 uL,C,,,,,Folk,L-6,,,,,36.8558167,-82.747758,,,"36°51'20.94""N","82°44'51.93""W"
+L6-4,Heuchera longiflora var. longiflora,,KY,,17.8,16.1,16.95,2084.85,29.49852507,Vacuum centrifuge then add 25 uL,F,,,,,Folk,L-6,,,,,36.8558167,-82.747758,,,"36°51'20.94""N","82°44'51.93""W"
+L8-3,Heuchera longiflora var. longiflora,,KY,,5.75,5.27,5.51,677.73,90.74410163,Vacuum centrifuge then add 25 uL,F,,,,,Folk,L-8,,,,,36.7041139,-82.777372,,,"36°42'14.81""N","82°46'38.54""W"
+L9-3,Heuchera longiflora var. longiflora,,KY,,5.78,5.07,5.425,667.275,92.16589862,Vacuum centrifuge then add 25 uL,F,,,,,Folk,L-9,,,,,37.1037417,-82.668386,,,"37° 6'13.47""N","82°40'6.19""W"
+I102,Heuchera novomexicana,,NM,,20.9,20.8,20.85,2564.55,23.98081535,1.019184652,,,,,,Alexander,1425,,,,,34.4243,-107.0916,OS,,,
+I103,Heuchera soltisii,,NM,,10.4,10.6,10.5,1291.5,47.61904762,Vacuum centrifuge then add 25 uL,,,,,,Alexander,1427,,,,,32.5414,-107.7258,OS,,,
+I104,Heuchera novomexicana,,NM,,37.6,37.5,37.55,4618.65,13.31557923,11.68442077,,,,,,Alexander,1434,,,,,33.3195,-106.5352,OS,,,
+I131,Heuchera parvifolia,,NM,,46.7,46.7,46.7,5744.1,10.70663812,14.29336188,,,,,,Alexander,s.n.,,,,,34.28534,-107.90746,OS,,,
+I132,Heuchera novomexicana,,NM,,23.6,23.5,23.55,2896.65,21.23142251,3.768577495,,,,,,Alexander,1266,,,,,33.3379,-107.8126,OS,,,
+I133,Heuchera parvifolia,,NM,,32.7,32.9,32.8,4034.4,15.24390244,9.756097561,,,,,,Worthington,37458,,,,,32.983333,-105.65,OS,,32° 59.930' N,105° 39.842' W
+I134,Heuchera villosa,,WV,,16.2,16,16.1,1980.3,31.05590062,Vacuum centrifuge then add 25 uL,,,,,,Spooner,2371,,,,,38.168074,-81.192428,OS,,,
+I135,Heuchera villosa,,KY,,7.51,7.44,7.475,919.425,66.88963211,Vacuum centrifuge then add 25 uL,,,,,,Kiel,3982,,,,,37.83526,-82.862094,OS,,,
+I136,Heuchera richardsonii,,IL,,26.3,26.1,26.2,3222.6,19.08396947,5.916030534,,,,,,Kiel,7516,Iroquois County Conservation Area,Iroquois,IL,,40.988744,-87.574145,OS,Google Earth,,
+I137,Heuchera americana var. hirsuticaulis,,MI,Yes,11.7,11.6,11.65,559.2,42.91845494,Vacuum centrifuge then add 25 uL,,,,,,Stuckey,2672,"Local in woods adjacent to abandoned railroad grade, Sec. 5 & 6, T4S, R4E, ca. 1 & 2 mi E of Manchester",Washtenaw,MI,,42.15855,-83.981033,OS,Geolocate,,
+I138,Heuchera richardsonii,,IA,,21.5,21.2,21.35,2626.05,23.41920375,1.580796253,,,,,,Lammers,4198,Lester Twp. T90N R11W S32 NW1/4. Along railroad tracks at west edge of Dunkerton.,Black Hawk,IA,,42.562706,-92.170769,OS,Geolocate,,
+I139,Heuchera americana var. americana,,AL,Yes,7.44,7.39,7.415,355.92,Use whole sample,Vacuum centrifuge then add 25 uL,,,,,,Cusick,7363,,Dekalb,AL,,34.5708167,-105.993007,OS,County,,
+I140,Heuchera americana var. americana,,Ontario,Yes,19.2,19.1,19.15,919.2,26.10966057,Vacuum centrifuge then add 25 uL,,,,,,Roberts,1503,,Essex,,Canada,41.682508,-82.682775,OS,Google Earth,,
+I141,Heuchera americana var. americana,,IN,,19.8,19.2,19.5,2398.5,25.64102564,Vacuum centrifuge then add 25 uL,,,,,,Stott,15320,"Greasy Creek Road, Nashville",,IN,,39.199771,-86.245268,OS,Geolocate,,
+I142,Heuchera longipetala var. nudicaulis,,Jalisco,Yes,1.32,1.35,1.335,64.08,Use whole sample,Vacuum centrifuge then add 25 uL,,,,,,Nagel,8055,Nevado of Ciudad Guzman,,Jalisco,Canada,19.7,-103.483333,MINN,Geolocate,,
+I143,Heuchera richardsonii,,ND,Yes,12.9,13,12.95,621.6,38.61003861,Vacuum centrifuge then add 25 uL,,,,,,Stevens,3102,,Benson,ND,,48.0191362,-99.403103,MINN,County,,
+I144,Heuchera richardsonii,,Ontario,Yes,7.95,7.93,7.94,381.12,Use whole sample,Vacuum centrifuge then add 25 uL,,,,,,Baldwin,8679,"Pelican Lake: at ""The Lookout"" rock knob.",,Ontario,Canada,50.1,-91.95,MINN,Specimen,50°06' N,91°57' W
+I145,Heuchera richardsonii,,Ontario,Yes,1.77,1.82,1.795,86.16,Use whole sample,Vacuum centrifuge then add 25 uL,,,,,,Moir,4183,"At entrance to West Arm, north side. Vicinity of Sandy Lake.",,Ontario,Canada,53.07453,-93.405524,MINN,Google Earth,,
+I146,Heuchera richardsonii,,Colorado,,17.5,17.1,17.3,2127.9,28.9017341,Vacuum centrifuge then add 25 uL,,,,,,Weber,11576,"Black Forest 9 mi E of Monument; north base of wooded butte (Spruce Hill) on Frank Brown place, T11N R66W, Sec 14.",El Paso,CO,,39.013048,-104.700808,MINN,Geolocate,,
+I147,Heuchera americana var. americana,,Arkansas,,18.3,18.2,18.25,2244.75,27.39726027,Vacuum centrifuge then add 25 uL,,,,,,Demaree,53539,,Hot Spring,AR,,34.2956351,-92.9005742,MINN,County,"25°14'12"" N","100°18'40"" W"
+I148,Heuchera lakelae,,Coahuila,Yes,--,--,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,,,,,,Villarreal,3467,,,,,25.236667,-100.311111,BRIT,Specimen,,
+I149,Heuchera longipetala var. longipetala,,Distrito Federal,Yes,3.47,3.39,3.43,164.64,Use whole sample,Vacuum centrifuge then add 25 uL,,,,,,Ventura,2814,"San Bartolo, delegacion de A. Obregon",,Distrito Federal,Mexico,19.206066,-99.068197,BRIT,Geolocate,,
+I150,Heuchera rosendahlii,,Chihuahua,Yes,2.61,2.57,2.59,124.32,Use whole sample,Vacuum centrifuge then add 25 uL,,,,,,Yen,4113,Cascada de Basaseachic,Ocampo,Chihuahua,Mexico,28.087178,-108.28511,BRIT,Geolocate,,
+I151,Heuchera rosendahlii,,Chihuahua,Yes,--,--,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,,,,,,Spellenberg,8009,,,,,28.183333,108.208333,BRIT,Specimen,28°11' N,"108°12'30"" W"
+I152,Heuchera leptomeria var. peninsularis,,Baja California,,--,--,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,,,,,,Rebman,31870,,,,,30.7793,-115.348,BRIT,Specimen,,
+I153,Heuchera rubescens var. versicolor,,Chihuahua,Yes,8.98,8.82,8.9,427.2,Use whole sample,Vacuum centrifuge then add 25 uL,,,,,,Yen,8767,Parque Cumbres de Majalca,Chihuahua,Chihuahua,Mexico,28.803997,-106.487246,BRIT,Geolocate,,
+I154,Heuchera rubescens var. versicolor,,TX,,3.09,3.09,3.09,380.07,Use whole sample,Vacuum centrifuge then add 25 uL,,,Viscous at pre PCR stage,,,O'Kennon,107076,,,,,29.252158,-103.297584,BRIT,Specimen,,
+I155,Heuchera rubescens var. versicolor,,TX,Yes,1.78,1.77,1.775,85.2,Use whole sample,Vacuum centrifuge then add 25 uL,,,,,,Muller,8275,"Streamway of South McKittrick Canyon, Guadalupe Mts.",Culberson,Texas,,31.9167,-104.8667,BRIT,Geolocate,,
+I156,Heuchera sanguinea,,Chihuahua,Yes,6.13,5.98,6.055,290.64,Use whole sample,Vacuum centrifuge then add 25 uL,,,,,,Quintana,3030,Camino Nicolas Bravo-Las Varas,Madera,Chihuahua,Mexico,29.35306,-107.9344,BRIT,Geolocate,,
+I157,Heuchera alba,,PA,Yes,1.28,1.29,1.285,61.68,Use whole sample,Vacuum centrifuge then add 25 uL,,,,,,Duppstadt,s.n.,,Bedford,PA,,40.0271453,-78.5237447,BRIT,County,,
+I158,Heuchera americana var. americana,,TX,Yes,1.5,1.53,1.515,72.72,Use whole sample,Vacuum centrifuge then add 25 uL,,,,,,Ajivsgi,7340,Photo missing,,,,31.2638905,-98.5456116,BRIT,County,,
+I159,Heuchera americana var. americana,,TX,,2.51,2.48,2.495,306.885,Use whole sample,Vacuum centrifuge then add 25 uL,,,,,,Corell,18785,Photo missing,,,,31.2638905,-98.5456116,BRIT,County,,
+I160,Heuchera americana var. americana,,LA,Yes,3.73,3.74,3.735,179.28,Use whole sample,Vacuum centrifuge then add 25 uL,,,,,,Thieret,22647,,Caddo,LA,,35.131317,-98.3797949,BRIT,County,,
+I161,Heuchera americana var. americana,,NJ,Yes,1.88,1.94,1.91,91.68,Use whole sample,Vacuum centrifuge then add 25 uL,,,,,,Morton,5692,,Sussex,NJ,,41.133372,-74.6930393,BRIT,County,,
+I162,Heuchera americana var. americana,,CT,,23.7,23.2,23.45,2884.35,21.32196162,3.67803838,,,,,,Mehrhoff,13415,,New Haven,CT,,41.3082138,-72.9250518,BRIT,County,,
+I163,Heuchera americana var. americana,,PA,Yes,1.64,1.69,1.665,79.92,Use whole sample,Vacuum centrifuge then add 25 uL,,,,,,Marshall,CL-108,,Clarion,PA,,41.1818771,-79.429169,BRIT,County,,
+I164,Heuchera americana var. hirsuticaulis,,LA,Yes,3.06,3.09,3.075,147.6,Use whole sample,Vacuum centrifuge then add 25 uL,,,,,,Ajivsgi,6031,,De Soto,LA,,32.0195388,-93.7488946,BRIT,County,,
+I165,Heuchera americana var. hirsuticaulis,,OK,Yes,2.18,2.27,2.225,106.8,Use whole sample,Vacuum centrifuge then add 25 uL,,,,,,Wallis,6686,,Mayes,OK,,36.3047676,-95.2355722,BRIT,County,,
+I166,Heuchera richardsonii,,KS,,30.3,29.6,29.95,3683.85,16.69449082,8.305509182,,,,,,Freeman,14763,,,,,38.795833,-94.691667,BRIT,Specimen,"38°47'45"" N","94°41'30"" W"
+I167,Heuchera richardsonii,,NE,Yes,6.89,6.87,6.88,330.24,Use whole sample,Vacuum centrifuge then add 25 uL,,,,,,Stephens,37874,,Sarpy,NE,,41.1193462,-96.093081,BRIT,County,,
+I168,Heuchera longiflora var. longiflora,,WV,,7.55,7.58,7.565,930.495,66.09385327,Vacuum centrifuge then add 25 uL,,,,,,Vanderhorst,8142,"Tomblin Wildlife Management Area. About 2 air km SE of Monaville. UTM zone [17], 410536mE, 4184675mN. Short white flowers.",,,,37.80508,-82.016286,WVDNR,,,
+I169,Heuchera villosa var. villosa,,WV,,23.2,22.7,22.95,2822.85,21.78649237,3.213507625,,,,,,Streets,5012,,,,,37.723408,-80.525908,WVDNR,,,
+I170,Heuchera villosa var. villosa,,WV,,12.2,12.1,12.15,1494.45,41.15226337,Vacuum centrifuge then add 25 uL,,,,,,Vanderhorst,6495,,,,,37.893525,-81.032835,WVDNR,,,
+I171,Heuchera villosa var. villosa,,WV,,11.5,11.3,11.4,1402.2,43.85964912,Vacuum centrifuge then add 25 uL,,,,,,Vanderhorst,6501,,,,,37.832962,-81.057713,WVDNR,,,
+I172,Heuchera villosa var. villosa,,WV,Yes,3.92,3.89,3.905,187.44,Use whole sample,Vacuum centrifuge then add 25 uL,,,,,,Vanderhorst,7645,,,,,37.420831,-80.651878,WVDNR,,,
+I173,Heuchera alba,,WV,Yes,28.1,27.6,27.85,1336.8,17.95332136,7.046678636,,,,,,Vanderhorst,7485,,,,,38.927459,-79.237163,WVDNR,,,
+I174,Heuchera alba,,WV,Yes,22.2,22,22.1,1060.8,22.62443439,2.375565611,,,,,,Byers,1570,,,,,39.000504,-79.081646,WVDNR,,,
+I175,Heuchera alba,,WV,Yes,6.89,7.01,6.95,333.6,Use whole sample,Vacuum centrifuge then add 25 uL,,,,,,Streets,3790,,,,,38.202504,-80.194893,WVDNR,,,
+I176,Heuchera alba,,WV,No,4.9,5.08,4.99,613.77,100.2004008,Vacuum centrifuge then add 25 uL,,,,,,Streets,3004,,,,,38.505711,-79.209617,WVDNR,,,
+I177,Heuchera alba,,WV,No,9.42,9.4,9.41,1157.43,53.13496281,Vacuum centrifuge then add 25 uL,,,,,,Streets,5990,,,,,38.365892,-79.93746,WVDNR,,,
+I178,Heuchera alba,,WV,Yes,1.21,1.05,1.13,54.24,Use whole sample,Vacuum centrifuge then add 25 uL,,,,,,Streets,4090,,,,,38.984892,-79.218757,WVDNR,,,
+I179,Heuchera alba,,WV,Yes,11.2,10.6,10.9,523.2,45.87155963,Vacuum centrifuge then add 25 uL,,,,,,Streets,4768,,,,,38.636815,-79.394064,WVDNR,,,
+I180,Heuchera alba,,WV,No,7.93,7.77,7.85,965.55,63.69426752,Vacuum centrifuge then add 25 uL,,,,,,Streets,4778,,,,,38.666659,-79.235843,WVDNR,,,
+I181,Heuchera longiflora var. longiflora,,WV,No,3.99,4.35,4.17,512.91,119.9040767,Vacuum centrifuge then add 25 uL,,,,,,Streets,5984,Tomblin Wildlife Management Area. Along gas well road following ridge between Rockhouse Branch and Bubby Branch. Typical flowers.,Mingo,WV,,37.79763806,-82.1964269,WVDNR,,,
+I182,Heuchera longiflora var. longiflora,,WV,No,3.24,3.6,3.42,420.66,Use whole sample,Vacuum centrifuge then add 25 uL,,,,,,Streets,5987,Tomblin Wildlife Management Area. Ca. 2.9 air miles north of Myrtle along gas well access road. Short white flowers.,Mingo,WV,,37.80921876,-82.20003308,WVDNR,,,
+I183,Heuchera longiflora var. longiflora,,WV,No,6.18,6.8,6.49,798.27,77.04160247,Vacuum centrifuge then add 25 uL,,,,,,Streets,5988,Tomblin Wildlife Management Area. Ca. 1.3 air miles south of Upper Whitman on slope east of Pine Gap Branch. Short white flowers.,Logan,WV,,37.77652967,-82.0569999,WVDNR,,,
+I184,Heuchera villosa,,TN,Yes,2.11,1.96,2.035,97.68,Use whole sample,Vacuum centrifuge then add 25 uL,,,,,,Fishbein,5093,,,,,35.804167,-85.63,MISSA,Specimen,35°48.25' N,85°37.80' W
+I185,Heuchera americana var. hirsuticaulis,,MS,No,20.8,20,20.4,2509.2,24.50980392,0.4901960784,,,,,,Majure,1490,,,,,32.2281,-88.8489,MISSA,Specimen,,
+I186,Heuchera americana var. americana,,MS,No,20.7,21,20.85,2564.55,23.98081535,1.019184652,,,,,,Fishbein,5339,,,,,34.612778,-88.183056,MISSA,Specimen,34°36.77' N,88°10.99' W
+I187,Heuchera americana var. americana,,MS,Yes,1.16,1.16,1.16,55.68,Use whole sample,Vacuum centrifuge then add 25 uL,,,,,,Quimby,s.n.,,Clay,MS,,33.6393012,-88.7957063,MISSA,County,,
+I188,Heuchera americana var. hirsuticaulis,,MS,Yes,1.01,1,1.005,48.24,Use whole sample,Vacuum centrifuge then add 25 uL,,,,,,Johnston,s.n.,,Winston,MS,,33.0603103,-89.0495278,MISSA,County,,
+I189,Heuchera bracteata,,CO,Yes,12.3,11.8,12.05,578.4,41.49377593,Vacuum centrifuge then add 25 uL,,,,,,Fishbein,5393,,,,,41.53,-105.176667,MISSA,Specimen,40°31.8' N,105°10.6' W
+I190,Heuchera parviflora var. parviflora,,WV,Yes,--,--,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,,,,,,Gilbert,1056,,Wayne,WV,,38.1270685,-82.4289201,MISSA,County,,
+I191,Heuchera grossulariifolia var. grossulariifolia,,ID,Yes,5.63,5.42,5.525,265.2,Use whole sample,Vacuum centrifuge then add 25 uL,,,,,,Soltis,1841,,Adams,ID,,44.8677448,-116.4572399,MISSA,County,,
+I192,Heuchera micrantha var. micrantha,,WA,Yes,7.13,7.33,7.23,347.04,Use whole sample,Vacuum centrifuge then add 25 uL,,,,,,Ness,324,,King,WA,,47.4873376,-121.8622122,MISSA,County,,
+I193,Heuchera micrantha var. diversifolia,,WA,No,13,13.2,13.1,1611.3,38.16793893,Vacuum centrifuge then add 25 uL,,,,,,Rabe,2,,King,WA,,47.4873376,-121.8622122,MISSA,County,,
+I194,Heuchera rubescens var. truncata,,CA,Yes,1.72,1.62,1.67,80.16,Use whole sample,Vacuum centrifuge then add 25 uL,,,,,,Cronquist,8504,,Modoc,CA,,41.5450487,-120.7435998,MISSA,County,,
+I195,Heuchera cylindrica var. alpina,,WA,No,7.44,7.69,7.565,930.495,66.09385327,Vacuum centrifuge then add 25 uL,,,,,,Grable,7322,"Okanogan N Forest Rd 374 at Benson Creek northwest of Hart's Pass, T38N, R17E, S35, SE1/4 SW1/4",Whatcom,WA,,48.750866,-120.703726,MISSA,Geolocate,,
+I196,Heuchera cylindrica var. alpina,,CA,Yes,1.97,1.79,1.88,90.24,Use whole sample,Vacuum centrifuge then add 25 uL,,,,,,Cronquist,8503,"North slope above Mill Creek, a little above Clear Lake, Warner Mts, 15 miles east of Likely. T40N R15E S27.",Modoc,CA,,41.273554,-120.256981,MISSA,,,
+A28-5,Heuchera americana var. calycosa ,,MS,,16.1,16.3,16.2,1992.6,30.86419753,Vacuum centrifuge then add 25 uL,1,,,,,,,,,,,34.58071,-88.192537,,,34.6052079°,-88.1925365°
+A29-8,Heuchera americana var. calycosa ,,MS,,10.7,10.5,10.6,1303.8,47.16981132,Vacuum centrifuge then add 25 uL,1,,,,,,,,,,,34.9294925,-88.191126,,,34.953990°,-88.191126°
+A29-10,Heuchera americana var. calycosa ,,MS,,10.3,10.5,10.4,1279.2,48.07692308,Vacuum centrifuge then add 25 uL,1,,,,,,,,,,,34.9294925,-88.191126,,,34.953990°,-88.191126°
+A30-1,Heuchera villosa var. macrorhiza ,,MS,,19.1,19.4,19.25,2367.75,25.97402597,Vacuum centrifuge then add 25 uL,1,,,,,,,,,,,34.930459,-88.189257,,,34.954956°,-88.189257°
+A30-3,Heuchera villosa var. macrorhiza ,,MS,,15.9,14.4,15.15,1863.45,33.00330033,Vacuum centrifuge then add 25 uL,1,,,,,,,,,,,34.930459,-88.189257,,,34.954956°,-88.189257°
+A30-4,Heuchera villosa var. macrorhiza ,,MS,,17.4,17.8,17.6,2164.8,28.40909091,Vacuum centrifuge then add 25 uL,1,,,,,,,,,,,34.930459,-88.189257,,,34.954956°,-88.189257°
+A30-5,Heuchera villosa var. macrorhiza ,,MS,,17.6,17.7,17.65,2170.95,28.3286119,Vacuum centrifuge then add 25 uL,1,,,,,,,,,,,34.930459,-88.189257,,,34.954956°,-88.189257°
+A30-6,Heuchera villosa var. macrorhiza ,,MS,,14.8,14.8,14.8,1820.4,33.78378378,Vacuum centrifuge then add 25 uL,1,,,,,,,,,,,34.930459,-88.189257,,,34.954956°,-88.189257°
+A30-7,Heuchera villosa var. macrorhiza ,,MS,,15.1,15.2,15.15,1863.45,33.00330033,Vacuum centrifuge then add 25 uL,1,,,,,,,,,,,34.930459,-88.189257,,,34.954956°,-88.189257°
+A30-8,Heuchera villosa var. macrorhiza ,,MS,,17.6,17.9,17.75,2183.25,28.16901408,Vacuum centrifuge then add 25 uL,1,,,,,,,,,,,34.930459,-88.189257,,,34.954956°,-88.189257°
+A30-10,Heuchera villosa var. macrorhiza ,,MS,,14.9,15.2,15.05,1851.15,33.22259136,Vacuum centrifuge then add 25 uL,1,,,,,,,,,,,34.930459,-88.189257,,,34.954956°,-88.189257°
+A32-2,Heuchera americana var. hirsuticaulis ,,TN,,6.78,7,6.89,847.47,72.56894049,Vacuum centrifuge then add 25 uL,1,,,,,,,,,,,35.380564,-88.832925,,,"35°22'50.03"" N","88°49'58.53"" W"
+A32-5,Heuchera americana var. hirsuticaulis ,,TN,,4.66,4.68,4.67,574.41,107.0663812,Vacuum centrifuge then add 25 uL,1,,,,,,,,,,,35.380564,-88.832925,,,,
+A32-6,Heuchera americana var. hirsuticaulis ,,TN,,7,7.04,7.02,863.46,71.22507123,Vacuum centrifuge then add 25 uL,1,,,,,,,,,,,35.380564,-88.832925,,,,
+A33-2,Heuchera americana var. c.f. calycosa ,,TN,,4.03,4.06,4.045,497.535,Use whole sample,Vacuum centrifuge then add 25 uL,1,,,,,,,,,,,36.036792,-87.415364,,,"36° 2'12.45"" N","87°24'55.31"" W"
+A34-3,Heuchera americana var. americana,,TN,,10.4,10.3,10.35,1273.05,48.30917874,Vacuum centrifuge then add 25 uL,1,,,,,,,,,,,36.036792,-87.328511,,,"47. 36°10'25.13"" N","87°19'42.64"" W"
+A34-4,Heuchera americana var. americana,,TN,,11,10.8,10.9,1340.7,45.87155963,Vacuum centrifuge then add 25 uL,1,,,,,,,,,,,36.036792,-87.328511,,,,
+A34-5,Heuchera americana var. americana,,TN,,13.4,13,13.2,1623.6,37.87878788,Vacuum centrifuge then add 25 uL,1,,,,,,,,,,,36.036792,-87.328511,,,,
+A34-6,Heuchera americana var. americana,,TN,,16.6,16.6,16.6,2041.8,30.12048193,Vacuum centrifuge then add 25 uL,1,,,,,,,,,,,36.036792,-87.328511,,,,
+A34-7,Heuchera americana var. americana,,TN,,9.25,9.23,9.24,1136.52,54.11255411,Vacuum centrifuge then add 25 uL,1,,,,,,,,,,,36.036792,-87.328511,,,,
+A34-8,Heuchera americana var. americana,,TN,,12.3,11.9,12.1,1488.3,41.32231405,Vacuum centrifuge then add 25 uL,1,,,,,,,,,,,36.036792,-87.328511,,,,
+A34-9,Heuchera americana var. americana,,TN,,11.8,11.6,11.7,1439.1,42.73504274,Vacuum centrifuge then add 25 uL,1,,,,,,,,,,,36.036792,-87.328511,,,,
+A34-10,Heuchera americana var. americana,,TN,,22.3,22,22.15,2724.45,22.57336343,2.426636569,1,,,,,,,,,,,36.036792,-87.328511,,,,
+A35-1,Heuchera americana var. americana,,TN,,8.74,8.57,8.655,1064.565,57.7700751,Vacuum centrifuge then add 25 uL,1,,Flowers looked more like calycosa,,,,,,,,,36.311858,-87.307933,,,"36°18'42.69"" N","87°18'28.56"" W"
+A35-2,Heuchera americana var. americana,,TN,,9.52,9.18,9.35,1150.05,53.47593583,Vacuum centrifuge then add 25 uL,1,,Flowers looked more like calycosa,,,,,,,,,36.311858,-87.307933,,,,
+A35-3,Heuchera americana var. americana,,TN,,12.9,12.7,12.8,1574.4,39.0625,Vacuum centrifuge then add 25 uL,1,,Flowers looked more like calycosa,,,,,,,,,36.311858,-87.307933,,,,
+A35-4,Heuchera americana var. americana,,TN,,9.35,9.02,9.185,1129.755,54.43658138,Vacuum centrifuge then add 25 uL,1,,Flowers looked more like calycosa,,,,,,,,,36.311858,-87.307933,,,,
+A35-5,Heuchera americana var. americana,,TN,,7.42,7.32,7.37,906.51,67.84260516,Vacuum centrifuge then add 25 uL,1,,Flowers looked more like calycosa,,,,,,,,,36.311858,-87.307933,,,,
+A35-6,Heuchera americana var. americana,,TN,,14.6,14.3,14.45,1777.35,34.60207612,Vacuum centrifuge then add 25 uL,1,,Flowers looked more like calycosa,,,,,,,,,36.311858,-87.307933,,,,
+A35-7,Heuchera americana var. americana,,TN,,5.26,5.23,5.245,645.135,95.32888465,Vacuum centrifuge then add 25 uL,1,,Flowers looked more like calycosa,,,,,,,,,36.311858,-87.307933,,,,
+A35-8,Heuchera americana var. americana,,TN,,9.17,8.97,9.07,1115.61,55.12679162,Vacuum centrifuge then add 25 uL,1,,Flowers looked more like calycosa,,,,,,,,,36.311858,-87.307933,,,,
+A35-9,Heuchera americana var. americana,,TN,,12.5,12.3,12.4,1525.2,40.32258065,Vacuum centrifuge then add 25 uL,1,,Flowers looked more like calycosa,,,,,,,,,36.311858,-87.307933,,,,
+A35-10,Heuchera americana var. americana,,TN,,5,4.82,4.91,603.93,101.8329939,Vacuum centrifuge then add 25 uL,1,,Flowers looked more like calycosa,,,,,,,,,36.311858,-87.307933,,,,
+A36,Heuchera americana var. americana,,KY,,7.69,7.48,7.585,932.955,65.91957811,Vacuum centrifuge then add 25 uL,1,,,,,,,,,,,37.204169,-86.736069,,,"37°12'15.01"" N","86°44'9.85"" W"
+A37-1,Heuchera missouriensis,,KY,,20.5,20.2,20.35,2503.05,24.57002457,0.42997543,1,,,,,,,,,,,37.204169,-86.736069,,,"37°12'15.01"" N","86°44'9.85"" W"
+A37-2,Heuchera missouriensis,,KY,,23.6,23.3,23.45,2884.35,21.32196162,3.67803838,1,,,,,,,,,,,37.204169,-86.736069,,,,
+A37-3,Heuchera missouriensis,,KY,,27.2,26.6,26.9,3308.7,18.58736059,6.412639405,1,,,,,,,,,,,37.204169,-86.736069,,,,
+A37-4,Heuchera missouriensis,,KY,,26.4,26.2,26.3,3234.9,19.01140684,5.988593156,1,,,,,,,,,,,37.204169,-86.736069,,,,
+A37-5,Heuchera missouriensis,,KY,,26.5,25.8,26.15,3216.45,19.12045889,5.879541109,1,,,,,,,,,,,37.204169,-86.736069,,,,
+A37-6,Heuchera missouriensis,,KY,,34.9,32.1,33.5,4120.5,14.92537313,10.07462687,1,,(lossed) Ejected with tip into trash bucket in final clean up,,,,,,,,,37.204169,-86.736069,,,,
+A37-7,Heuchera missouriensis,,KY,,24.3,23.7,24,2952,20.83333333,4.166666667,1,,fell in vaccume centrifuge,,,,,,,,,37.204169,-86.736069,,,,
+A37-8,Heuchera missouriensis,,KY,,74.2,72.9,73.55,9046.65,6.798096533,18.20190347,1,,,,,,,,,,,37.204169,-86.736069,,,,
+A37-9,Heuchera missouriensis,,KY,,44.3,43.4,43.85,5393.55,11.40250855,13.59749145,1,,,,,,,,,,,37.204169,-86.736069,,,,
+A37-10,Heuchera missouriensis,,KY,,36.6,36.8,36.7,4514.1,13.6239782,11.3760218,1,,,,,,,,,,,37.204169,-86.736069,,,,
+A38-1,Heuchera americana var. hirsuticaulis,,KY,,20.4,19.9,20.15,2478.45,24.81389578,0.1861042184,1,,,,,,,,,,,36.888572,-86.832992,,,"36°53'18.86"" N","86°49'58.77"" W"
+A38-2,Heuchera americana var. hirsuticaulis,,KY,,13,12.7,12.85,1580.55,38.91050584,Vacuum centrifuge then add 25 uL,1,,,,,,,,,,,36.888572,-86.832992,,,,
+A39-1,Heuchera americana var. hirsuticaulis,,KY,,21.7,21.4,21.55,2650.65,23.20185615,1.798143852,1,,,,,,,,,,,36.847206,-88.072117,,,"36°50'49.94"" N","88° 4'19.62"" W"
+A39-2,Heuchera americana var. hirsuticaulis,,KY,,7.99,7.81,7.9,971.7,63.29113924,Vacuum centrifuge then add 25 uL,1,,,,,,,,,,,36.847206,-88.072117,,,,
+A39-3,Heuchera americana var. hirsuticaulis,,KY,,56.1,55.1,55.6,6838.8,8.992805755,16.00719424,1,,,,,,,,,,,36.847206,-88.072117,,,,
+A39-4,Heuchera americana var. hirsuticaulis,,KY,,11.9,11.5,11.7,1439.1,42.73504274,Vacuum centrifuge then add 25 uL,1,,,,,,,,,,,36.847206,-88.072117,,,,
+A39-5,Heuchera americana var. hirsuticaulis,,KY,,11.1,10.8,10.95,1346.85,45.66210046,Vacuum centrifuge then add 25 uL,1,,,,,,,,,,,36.847206,-88.072117,,,,
+A39-6,Heuchera americana var. hirsuticaulis,,KY,,10.5,10.2,10.35,1273.05,48.30917874,Vacuum centrifuge then add 25 uL,1,,,,,,,,,,,36.847206,-88.072117,,,,
+A39-7,Heuchera americana var. hirsuticaulis,,KY,,23.1,22.5,22.8,2804.4,21.92982456,3.070175439,1,,,,,,,,,,,36.847206,-88.072117,,,,
+A39-8,Heuchera americana var. hirsuticaulis,,KY,,14,13.7,13.85,1703.55,36.10108303,Vacuum centrifuge then add 25 uL,1,,,,,,,,,,,36.847206,-88.072117,,,,
+A39-9,Heuchera americana var. hirsuticaulis,,KY,,14.6,14.2,14.4,1771.2,34.72222222,Vacuum centrifuge then add 25 uL,1,,,,,,,,,,,36.847206,-88.072117,,,,
+A39-10,Heuchera americana var. hirsuticaulis,,KY,,8,7.81,7.905,972.315,63.25110689,Vacuum centrifuge then add 25 uL,1,,,,,,,,,,,36.847206,-88.072117,,,,
+A39-11,Heuchera americana var. hirsuticaulis,,KY,,7.78,7.55,7.665,942.795,65.23157208,Vacuum centrifuge then add 25 uL,1,,,,,,,,,,,36.847206,-88.072117,,,,
+A40,Heuchera americana var. hirsuticaulis,,IL,,25.1,24.5,24.8,3050.4,20.16129032,4.838709677,1,,,,,,,,,,,37.573553,-89.439867,,,"37°34'24.79"" N","89°26'23.52"" W"
+A40-2,Heuchera americana var. hirsuticaulis,,IL,,21.2,20.8,21,2583,23.80952381,1.19047619,1,,,,,,,,,,,37.573553,-89.439867,,,,
+A40-3,Heuchera americana var. hirsuticaulis,,IL,,11.3,11,11.15,1371.45,44.84304933,Vacuum centrifuge then add 25 uL,1,,,,,,,,,,,37.573553,-89.439867,,,,
+A41-1,Heuchera americana var. hirsuticaulis,,MO,,16.1,15.5,15.8,1943.4,31.64556962,Vacuum centrifuge then add 25 uL,1,,,,,,,,,,,36.966256,-90.234139,,,"36°57'58.52"" N","90°14'2.90"" W"
+A41-2,Heuchera americana var. hirsuticaulis,,MO,,19.5,18.9,19.2,2361.6,26.04166667,Vacuum centrifuge then add 25 uL,1,,,,,,,,,,,36.966256,-90.234139,,,,
+A41-3,Heuchera americana var. hirsuticaulis,,MO,,14.1,13.7,13.9,1709.7,35.97122302,Vacuum centrifuge then add 25 uL,1,,,,,,,,,,,36.966256,-90.234139,,,,
+A45-2,Heuchera americana var. hirsuticaulis,,AR,,18,17.6,17.8,2189.4,28.08988764,Vacuum centrifuge then add 25 uL,1,,,,,,,,,,,36.065467,-94.13855,,,,
+A45-3,Heuchera americana var. hirsuticaulis,,AR,,17.2,16.8,17,2091,29.41176471,Vacuum centrifuge then add 25 uL,1,,,,,,,,,,,36.065467,-94.13855,,,,
+A45-4,Heuchera americana var. hirsuticaulis,,AR,,21.7,21.3,21.5,2644.5,23.25581395,1.744186047,1,,,,,,,,,,,36.065467,-94.13855,,,,
+A45-8,Heuchera americana var. hirsuticaulis,,AR,,18.3,17.9,18.1,2226.3,27.62430939,Vacuum centrifuge then add 25 uL,1,,,,,,,,,,,36.065467,-94.13855,,,,
+A45-9,Heuchera americana var. hirsuticaulis,,AR,,33.8,32.9,33.35,4102.05,14.99250375,10.00749625,1,,,,,,,,,,,36.065467,-94.13855,,,,
+A45-10,Heuchera americana var. hirsuticaulis,,AR,,18.5,17.9,18.2,2238.6,27.47252747,Vacuum centrifuge then add 25 uL,1,,,,,,,,,,,36.065467,-94.13855,,,,
+A46-7,Heuchera americana var. hirsuticaulis,,AR,,19.3,18.6,18.95,2330.85,26.38522427,Vacuum centrifuge then add 25 uL,1,,,,,,,,,,,35.994786,-94.132508,,,,
+A47-2,Heuchera americana var. hirsuticaulis,,AR,,17,16.5,16.75,2060.25,29.85074627,Vacuum centrifuge then add 25 uL,1,,,,,,,,,,,35.996722,-94.129067,,,,
+A47-5,Heuchera americana var. hirsuticaulis,,AR,,11.7,11.5,11.6,1426.8,43.10344828,Vacuum centrifuge then add 25 uL,1,,,,,,,,,,,35.996722,-94.129067,,,,
+A48,Heuchera americana var. hirsuticaulis,,AR,,26.8,26,26.4,3247.2,18.93939394,6.060606061,1,,,,,,,,,,,35.304633,-93.165575,,,"35°18'16.68"" N","93° 9'56.07"" W"
+A49-1,Heuchera americana var. hirsuticaulis,,AR,,17.2,16.7,16.95,2084.85,29.49852507,Vacuum centrifuge then add 25 uL,1,,,,,,,,,,,35.074283,-92.538006,,,"35° 4'27.42"" N","92°32'16.82"" W"
+A49-2,Heuchera americana var. hirsuticaulis,,AR,,17.5,16.9,17.2,2115.6,29.06976744,Vacuum centrifuge then add 25 uL,1,,,,,,,,,,,35.074283,-92.538006,,,,
+A49-4,Heuchera americana var. hirsuticaulis,,AR,,15.7,15.1,15.4,1894.2,32.46753247,Vacuum centrifuge then add 25 uL,1,,,,,,,,,,,35.074283,-92.538006,,,,
+A49-5,Heuchera americana var. hirsuticaulis,,AR,,18.4,17.6,18,2214,27.77777778,Vacuum centrifuge then add 25 uL,1,,,,,,,,,,,35.074283,-92.538006,,,,
+A49-6,Heuchera americana var. hirsuticaulis,,AR,,12.1,11.7,11.9,1463.7,42.01680672,Vacuum centrifuge then add 25 uL,1,,,,,,,,,,,35.074283,-92.538006,,,,
+A49-7,Heuchera americana var. hirsuticaulis,,AR,,34.1,33.4,33.75,4151.25,14.81481481,10.18518519,1,,,,,,,,,,,35.074283,-92.538006,,,,
+A49-8,Heuchera americana var. hirsuticaulis,,AR,,10.5,10.3,10.4,1279.2,48.07692308,Vacuum centrifuge then add 25 uL,1,,,,,,,,,,,35.074283,-92.538006,,,,
+A49-9,Heuchera americana var. hirsuticaulis,,AR,,13,12.6,12.8,1574.4,39.0625,Vacuum centrifuge then add 25 uL,1,,,,,,,,,,,35.074283,-92.538006,,,,
+A49-10,Heuchera americana var. hirsuticaulis,,AR,,15,14.7,14.85,1826.55,33.67003367,Vacuum centrifuge then add 25 uL,1,,,,,,,,,,,35.074283,-92.538006,,,,
+A49-11,Heuchera americana var. hirsuticaulis,,AR,,17,16.6,16.8,2066.4,29.76190476,Vacuum centrifuge then add 25 uL,1,,,,,,,,,,,35.074283,-92.538006,,,,
+A49-12,Heuchera americana var. hirsuticaulis,,AR,,14,14,14,1722,35.71428571,Vacuum centrifuge then add 25 uL,1,,,,,,,,,,,35.074283,-92.538006,,,,
+A28-1,Heuchera americana var. calycosa ,,MS,,6.96,7.01,6.985,859.155,71.58196135,Vacuum centrifuge then add 25 uL,1,,,,,,,,,,,34.58071,-88.192537,,,,
+A28-2,Heuchera americana var. calycosa ,,MS,,6.34,6.35,6.345,780.435,78.80220646,Vacuum centrifuge then add 25 uL,1,,,,,,,,,,,34.58071,-88.192537,,,,
+A28-3,Heuchera americana var. calycosa ,,MS,,7.94,8.03,7.985,982.155,62.61740764,Vacuum centrifuge then add 25 uL,1,,,,,,,,,,,34.58071,-88.192537,,,,
+A28-4,Heuchera americana var. calycosa ,,MS,,6.84,6.81,6.825,839.475,73.26007326,Vacuum centrifuge then add 25 uL,1,,,,,,,,,,,34.58071,-88.192537,,,,
+A28-6,Heuchera americana var. calycosa ,,MS,yes,24.3,23.9,24.1,1156.8,20.74688797,4.253112033,1,,,,,,,,,,,34.58071,-88.192537,,,,
+A28-7,Heuchera americana var. calycosa ,,MS,yes,19.1,18.5,18.8,902.4,26.59574468,Vacuum centrifuge then add 25 uL,1,,,,,,,,,,,34.58071,-88.192537,,,,
+A28-8,Heuchera americana var. calycosa ,,MS,,10.8,10.3,10.55,1297.65,47.39336493,Vacuum centrifuge then add 25 uL,1,,,,,,,,,,,34.58071,-88.192537,,,,
+A28-9,Heuchera americana var. calycosa ,,MS,,6.97,6.83,6.9,848.7,72.46376812,Vacuum centrifuge then add 25 uL,1,,,,,,,,,,,34.58071,-88.192537,,,,
+A29-1,Heuchera americana var. calycosa ,,MS,yes,27.1,26.2,26.65,1279.2,18.76172608,6.238273921,1,,,,,,,,,,,34.9294925,-88.191126,,,,
+A29-2,Heuchera americana var. calycosa ,,MS,yes,19.4,18.8,19.1,916.8,26.17801047,Vacuum centrifuge then add 25 uL,1,,,,,,,,,,,34.9294925,-88.191126,,,,
+A29-3,Heuchera americana var. calycosa ,,MS,,10.3,10.3,10.3,1266.9,48.54368932,Vacuum centrifuge then add 25 uL,1,,,,,,,,,,,34.9294925,-88.191126,,,,
+A29-4,Heuchera americana var. calycosa ,,MS,yes,15.6,15.5,15.55,746.4,32.15434084,Vacuum centrifuge then add 25 uL,1,,,,,,,,,,,34.9294925,-88.191126,,,,
+A29-5,Heuchera americana var. calycosa ,,MS,yes,7.22,6.91,7.065,339.12,Use whole sample,Vacuum centrifuge then add 25 uL,2,,,,,,,,,,,34.9294925,-88.191126,,,,
+A29-6,Heuchera americana var. calycosa ,,MS,yes,5.49,5.29,5.39,258.72,Use whole sample,Vacuum centrifuge then add 25 uL,2,,,,,,,,,,,34.9294925,-88.191126,,,,
+A29-7,Heuchera americana var. calycosa ,,MS,yes,17.9,16.8,17.35,832.8,28.8184438,Vacuum centrifuge then add 25 uL,2,,,,,,,,,,,34.9294925,-88.191126,,,,
+A29-9,Heuchera americana var. calycosa ,,MS,yes,11.2,10.8,11,528,45.45454545,Vacuum centrifuge then add 25 uL,2,,,,,,,,,,,34.9294925,-88.191126,,,,
+A30-2,Heuchera villosa var. macrorhiza ,,MS,yes,3.17,3.08,3.125,150,Use whole sample,Vacuum centrifuge then add 25 uL,2,,,,,,,,,,,34.930459,-88.189257,,,,
+A30-9,Heuchera villosa var. macrorhiza ,,MS,yes,3.04,2.9,2.97,142.56,Use whole sample,Vacuum centrifuge then add 25 uL,2,,,,,,,,,,,34.930459,-88.189257,,,,
+A31,Heuchera americana var. hirsuticaulis ,,MS,yes,2.53,2.34,2.435,116.88,Use whole sample,Vacuum centrifuge then add 25 uL,2,,,,,,,,,,,34.408321,-89.836198,,,,
+A32-1,Heuchera americana var. hirsuticaulis ,,TN,yes,24.6,24.2,24.4,1171.2,20.49180328,4.508196721,2,,,,,,,,,,,35.380564,-88.832925,,,,
+A32-3,Heuchera americana var. hirsuticaulis ,,TN,yes,6.69,6.29,6.49,311.52,Use whole sample,Vacuum centrifuge then add 25 uL,2,,,,,,,,,,,35.380564,-88.832925,,,,
+A32-4,Heuchera americana var. hirsuticaulis ,,TN,yes,5.43,5.04,5.235,251.28,Use whole sample,Vacuum centrifuge then add 25 uL,2,,,,,,,,,,,35.380564,-88.832925,,,,
+A32-7,Heuchera americana var. hirsuticaulis ,,TN,yes,4.63,4.44,4.535,217.68,Use whole sample,Vacuum centrifuge then add 25 uL,2,,,,,,,,,,,35.380564,-88.832925,,,,
+A32-8,Heuchera americana var. hirsuticaulis ,,TN,yes,5.9,5.58,5.74,275.52,Use whole sample,Vacuum centrifuge then add 25 uL,2,,,,,,,,,,,35.380564,-88.832925,,,,
+A32-9,Heuchera americana var. hirsuticaulis ,,TN,yes,6.46,6.18,6.32,303.36,Use whole sample,Vacuum centrifuge then add 25 uL,2,,,,,,,,,,,35.380564,-88.832925,,,,
+A32-10,Heuchera americana var. hirsuticaulis ,,TN,yes,8.78,8.43,8.605,413.04,Use whole sample,Vacuum centrifuge then add 25 uL,2,,,,,,,,,,,35.380564,-88.832925,,,,
+A33-1,Heuchera americana var. c.f. calycosa,,TN,yes,1.91,1.71,1.81,86.88,Use whole sample,Vacuum centrifuge then add 25 uL,2,,,,,,,,,,,36.036792,-87.415364,,,,
+A33-3,Heuchera americana var. c.f. calycosa,,TN,yes,5.54,6.13,5.835,280.08,Use whole sample,Vacuum centrifuge then add 25 uL,2,,,,,,,,,,,36.036792,-87.415364,,,,
+A33-4,Heuchera americana var. c.f. calycosa,,TN,yes,29.1,28.2,28.65,1375.2,17.45200698,7.547993019,2,,,,,,,,,,,36.036792,-87.415364,,,,
+A33-5,Heuchera americana var. c.f. calycosa,,TN,yes,13.6,12.9,13.25,636,37.73584906,Vacuum centrifuge then add 25 uL,2,,,,,,,,,,,36.036792,-87.415364,,,,
+A33-6,Heuchera americana var. c.f. calycosa,,TN,yes,11.1,10.9,11,528,45.45454545,Vacuum centrifuge then add 25 uL,2,,,,,,,,,,,36.036792,-87.415364,,,,
+A34-1,Heuchera americana,,TN,yes,21.7,21,21.35,1024.8,23.41920375,1.580796253,2,,,,,,,,,,,36.036792,-87.328511,,,,
+A34-2,Heuchera americana,,TN,yes,14,13.5,13.75,660,36.36363636,Vacuum centrifuge then add 25 uL,2,,,,,,,,,,,36.036792,-87.328511,,,,
+A42-1,Heuchera richardsonii,,MO,yes,26.1,25.2,25.65,1231.2,19.49317739,5.506822612,2,,Flowers look like hirsuticaulis,,,,,,,,,38.454586,-90.6237,,,"38°27'16.51"" N","90°37'25.32"" W"
+A42-2,Heuchera richardsonii,,MO,yes,21.8,20.8,21.3,1022.4,23.4741784,1.525821596,2,,Flowers look like hirsuticaulis,,,,,,,,,38.454586,-90.6237,,,,
+A42-3,Heuchera richardsonii,,MO,yes,28,27.3,27.65,1327.2,18.08318264,6.91681736,2,,Flowers look like hirsuticaulis,,,,,,,,,38.454586,-90.6237,,,,
+A42-4,Heuchera richardsonii,,MO,yes,44.8,42.3,43.55,2090.4,11.48105626,13.51894374,2,,Flowers look like hirsuticaulis,,,,,,,,,38.454586,-90.6237,,,,
+A43-1,Heuchera richardsonii,,IL,yes,75.2,72.3,73.75,3540,6.779661017,18.22033898,2,,Flowers look like hirsuticaulis,,,,,,,,,38.630683,-90.265731,,,"38°37'50.46"" N","90°15'56.63"" W"
+A43-2,Heuchera richardsonii,,IL,yes,38.7,37.2,37.95,1821.6,13.17523057,11.82476943,2,,Flowers look like hirsuticaulis,,,,,,,,,38.630683,-90.265731,,,,
+A43-3,Heuchera richardsonii,,IL,yes,40.9,39.2,40.05,1922.4,12.48439451,12.51560549,2,,Flowers look like hirsuticaulis,,,,,,,,,38.630683,-90.265731,,,,
+A44-1,Heuchera richardsonii,,MO,yes,18.3,17.5,17.9,859.2,27.93296089,Vacuum centrifuge then add 25 uL,2,,Flowers look like hirsuticaulis ,,,,,,,,,38.830369,-92.283972,,,"38°49'49.33"" N","92°17'2.30"" W"
+A44-2,Heuchera richardsonii,,MO,yes,24.4,23.5,23.95,1149.6,20.87682672,4.123173278,2,,Flowers look like hirsuticaulis ,,,,,,,,,38.830369,-92.283972,,,,
+A44-3,Heuchera richardsonii,,MO,yes,12.9,12.3,12.6,604.8,39.68253968,Vacuum centrifuge then add 25 uL,2,,Flowers look like hirsuticaulis ,,,,,,,,,38.830369,-92.283972,,,,
+A44-4,Heuchera richardsonii,,MO,yes,34.9,33.7,34.3,1646.4,14.57725948,10.42274052,2,,Flowers look like hirsuticaulis ,,,,,,,,,38.830369,-92.283972,,,,
+A44-5,Heuchera richardsonii,,MO,yes,16.6,16.1,16.35,784.8,30.58103976,Vacuum centrifuge then add 25 uL,2,,Flowers look like hirsuticaulis ,,,,,,,,,38.830369,-92.283972,,,,
+A44-6,Heuchera richardsonii,,MO,yes,32.7,31.6,32.15,1543.2,15.55209953,9.447900467,2,,Flowers look like hirsuticaulis ,,,,,,,,,38.830369,-92.283972,,,,
+A44-7,Heuchera richardsonii,,MO,yes,14.4,14,14.2,681.6,35.21126761,Vacuum centrifuge then add 25 uL,2,,Flowers look like hirsuticaulis ,,,,,,,,,38.830369,-92.283972,,,,
+A44-8,Heuchera richardsonii,,MO,yes,14.5,14,14.25,684,35.0877193,Vacuum centrifuge then add 25 uL,2,,Flowers look like hirsuticaulis ,,,,,,,,,38.830369,-92.283972,,,,
+A44-9,Heuchera richardsonii,,MO,yes,8.51,8.1,8.305,398.64,Use whole sample,Vacuum centrifuge then add 25 uL,2,,Flowers look like hirsuticaulis ,,,,,,,,,38.830369,-92.283972,,,,
+A44-10,Heuchera richardsonii,,MO,yes,21.8,21,21.4,1027.2,23.36448598,1.635514019,2,,Flowers look like hirsuticaulis ,,,,,,,,,38.830369,-92.283972,,,,
+A45-1,Heuchera americana var. hirsuticaulis,,AR,yes,7.76,7.42,7.59,364.32,Use whole sample,Vacuum centrifuge then add 25 uL,2,,,,,,,,,,,36.065467,-94.13855,,,"36° 3'55.68"" N","94° 8'18.78"" W"
+A45-5,Heuchera americana var. hirsuticaulis,,AR,yes,20,19.3,19.65,943.2,25.44529262,Vacuum centrifuge then add 25 uL,2,,,,,,,,,,,36.065467,-94.13855,,,,
+A45-6,Heuchera americana var. hirsuticaulis,,AR,yes,26.9,26.1,26.5,1272,18.86792453,6.132075472,2,,,,,,,,,,,36.065467,-94.13855,,,,
+A45-7,Heuchera americana var. hirsuticaulis,,AR,yes,22.6,22.2,22.4,1075.2,22.32142857,2.678571429,2,,,,,,,,,,,36.065467,-94.13855,,,,
+A46-1,Heuchera americana var. hirsuticaulis,,AR,yes,14.7,14.2,14.45,693.6,34.60207612,Vacuum centrifuge then add 25 uL,2,,,,,,,,,,,35.994786,-94.132508,,,"35°59'41.23"" N","94° 7'57.03"" W"
+A46-2,Heuchera americana var. hirsuticaulis,,AR,yes,5.71,5.37,5.54,265.92,Use whole sample,Vacuum centrifuge then add 25 uL,2,,,,,,,,,,,35.994786,-94.132508,,,,
+A46-3,Heuchera americana var. hirsuticaulis,,AR,yes,26.6,25.6,26.1,1252.8,19.15708812,5.842911877,2,,,,,,,,,,,35.994786,-94.132508,,,,
+A46-4,Heuchera americana var. hirsuticaulis,,AR,yes,6.6,6.29,6.445,309.36,Use whole sample,Vacuum centrifuge then add 25 uL,2,,,,,,,,,,,35.994786,-94.132508,,,,
+A46-5,Heuchera americana var. hirsuticaulis,,AR,yes,8.88,8.25,8.565,411.12,Use whole sample,Vacuum centrifuge then add 25 uL,2,,,,,,,,,,,35.994786,-94.132508,,,,
+A46-6,Heuchera americana var. hirsuticaulis,,AR,yes,35.4,34.5,34.95,1677.6,14.30615165,10.69384835,,,,,,,,,,,,35.994786,-94.132508,,,,
+A46-8,Heuchera americana var. hirsuticaulis,,AR,yes,18,17.2,17.6,844.8,28.40909091,Vacuum centrifuge then add 25 uL,,,,,,,,,,,,35.994786,-94.132508,,,,
+A46-9,Heuchera americana var. hirsuticaulis,,AR,yes,,,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,,,Need to redo. did not add TE to cleaning column,,,,,,,,,35.994786,-94.132508,,,,
+A47-1,Heuchera americana var. hirsuticaulis,,AR,yes,,,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,,,Need to redo. did not add TE to cleaning column,,,,,,,,,35.996722,-94.129067,,,,
+A47-3,Heuchera americana var. hirsuticaulis,,AR,yes,4.38,4.24,4.31,206.88,Use whole sample,Vacuum centrifuge then add 25 uL,,,,,,,,,,,,35.996722,-94.129067,,,"35°59'48.20"" N","94° 7'44.64"" W"
+A47-4,Heuchera americana var. hirsuticaulis,,AR,yes,7.54,7.35,7.445,357.36,Use whole sample,Vacuum centrifuge then add 25 uL,,,,,,,,,,,,35.996722,-94.129067,,,,
+A49-3,Heuchera americana var. hirsuticaulis,,AR,yes,4.64,4.49,4.565,219.12,Use whole sample,Vacuum centrifuge then add 25 uL,,,,,,,,,,,,35.074283,-92.538006,,,,
+rf78,Sedum polytrichoides ssp. yabeanum,,,Yes,2.75,2.67,2.71,333.33,Use whole sample,,,,,,,,,,,,,,,,,,
+rf26,Sedum filipes,,,Yes,4.84,4.78,4.81,591.63,103.950104,,,,,,,,,,,,,,,,,,
+rf58,Chrysosplenium henryi,Submitted and sequenced well,,Yes,15.6,15.6,15.6,1918.8,32.05128205,,,,,,,,,,,,,,,,,,
+rf88,Saxifraga llonakensis,,,Yes,6.04,5.99,6.015,739.845,83.12551953,,,,,,,,,,,,,,,,,,
+rf100,Saxifraga excellens,,,Yes,19.8,19.7,19.75,2429.25,25.3164557,,,,,,,,,,,,,,,,,,
+rf103,Kalanchoe deficiens,,,Yes,3.21,3.15,3.18,391.14,Use whole sample,,,,,,,,,,,,,,,,,,
+rf174,Crassula alticola,,,Yes,3.41,3.25,3.33,409.59,Use whole sample,,,,,,,,,,,,,,,,,,
+rf179,Crassula granvickii,,,Yes,3.34,3.25,3.295,405.285,Use whole sample,,,,,,,,,,,,,,,,,,
+rf191,Daphniphyllum glaucescens,,,Yes,--,--,#DIV/0!,#DIV/0!,#DIV/0!,,,,,,,,,,,,,,,,,,
+rf245,Crassula flava,,,Yes,1.27,1.28,1.275,156.825,Use whole sample,,,,,,,,,,,,,,,,,,
+rf257,Saxifraga amabilis,,,Yes,3.99,3.9,3.945,485.235,Use whole sample,,,,,,,,,,,,,,,,,,
+rf279,Saxifraga congestiflora,,,Yes,11.3,11.1,11.2,1377.6,44.64285714,,,,,,,,,,,,,,,,,,
+rf293,Glischrocaryon behrii,,,Yes,15.2,14.3,14.75,1814.25,33.89830508,,,,,,,,,,,,,,,,,,
+rf302,Tylecodon singularis,,,Yes,3.18,2.87,3.025,372.075,Use whole sample,,,,,,,,,,,,,,,,,,
+rf348,Adromischus schuldtianus,,,Yes,7.45,7.28,7.365,905.895,67.88866259,,,,,,,,,,,,,,,,,,
+rf355,Cotyledon orbiculata,,,Yes,2.49,2.23,2.36,290.28,Use whole sample,,,,,,,,,,,,,,,,,,
+rf356,Cotyledon barbeyi,,,Yes,10.3,9.83,10.065,1237.995,49.67709886,,,,,,,,,,,,,,,,,,
+rf390,Crassula dichotoma,,,Yes,6.4,6.46,6.43,790.89,77.76049767,,,,,,,,,,,,,,,,,,
+rf453,Saxifraga hookeri,,,Yes,7.2,7.14,7.17,881.91,69.73500697,,,,,,,,,,,,,,,,,,
+rf496,Saxifraga fusca ssp. kikubuki,,,Yes,4.64,4.54,4.59,564.57,108.9324619,,,,,,,,,,,,,,,,,,
+rf736,Aichryson laxum,,,,15.7,15.1,15.4,1894.2,32.46753247,,,,,,,Mort,1541,,,,,,,MISSA,MISSA008830,,
+rf737,Echeveria semivestita var semivestita,,,,1.48,1.41,1.445,177.735,Use whole sample,,,,,,,Fishbein,5156,,,,,,,MISSA,MISSA008833,,
+rf738,Sedum pulchellum,,,,12.2,11.9,12.05,1482.15,41.49377593,,,,,,,Fishbein,5084,,,,,,,MISSA,MISSA008837,,
+rf739,Sedum ternatum,,,,16.8,17.5,17.15,2109.45,29.15451895,,,,,,,Demaree,69485,,,,,,,MISSA,MISSA008840,,
+rf740,Crassula connata,,,,12.6,14.3,13.45,1654.35,37.17472119,,,,,,,Fishbein,4496,,,,,,,MISSA,MISSA008856,,
+rf741,Liquidambar styraciflua,,,,9.11,9.5,9.305,1144.515,53.73455132,,,,,,,Fishbein,5158,,,,,,,MISSA,MISSA001836,,
+rf742,Myriophyllum aquaticum,,,,1.33,1.51,1.42,174.66,Use whole sample,,,,,,,Pence,18,,,,,,,MISSA,MISSA033242,,
+rf743,Myriophyllum spicatum,,,,4.15,3.95,4.05,498.15,Use whole sample,,,,,,,Bryson,20451,,,,,,,MISSA,MISSA034166,,
+rf744,Myriophyllum sibiricum,,,,35.8,37.1,36.45,4483.35,13.71742112,,,,,,,Loescher,s.n.,,,,,,,MISSA,MISSA015332,,
+rf745,Prosperpinaca palustris,,,,6.22,6.24,6.23,766.29,80.25682183,,,,,,,Majure,1360,,,,,,,MISSA,MISSA029768,,
+rf746,Ribes echinellum,,,,--,--,#DIV/0!,#DIV/0!,#DIV/0!,,,,,,,Godfrey,56238,,,,,,,MISSA,MISSA015223,,
+rf747,Ribes lobbii,,,,8.97,11.5,10.235,1258.905,48.85197851,,,,,,,Grable,4024,,,,,,,MISSA,MISSA015304,,
+rf748,Itea virginica,,,,2.12,1.89,2.005,246.615,Use whole sample,,,,,,,Fishbein,4755,,,,,,,MISSA,MISSA014520,,
+rf749,Paeonia brownii,,,,19.2,17.7,18.45,2269.35,27.100271,,,,,,,Haralson,53,,,,,,,MISSA,MISSA018935,,
+rf750,Sullivantia sullivantii,,,,--,--,#DIV/0!,#DIV/0!,#DIV/0!,,,,,,,Oble,s.n.,,,,,,,MISSA,MISSA027670,,
+rf751,Penthorum sedoides,,,,--,--,#DIV/0!,#DIV/0!,#DIV/0!,,,,,,,Majure,3547,,,,,,,MISSA,MISSA031058,,
+rf752,Saxifraga hederaefolia,,,,3.07,3.09,3.08,378.84,Use whole sample,,,,,,,Ode Wilde,9169,,,,,,,MO,,,
+rf753,Saxifraga aristulata,,,,,,#DIV/0!,#DIV/0!,#DIV/0!,,,,,,,Miyamoto,95 96243,,,,,,,NHM 2015,,,
+rf754,Sedum filipes,,,,,,#DIV/0!,#DIV/0!,#DIV/0!,,,,,,,Ohba,8331273,,,,,,,NHM 2015,,,
+rf755,Cynomorium coccineum,,,,,,#DIV/0!,#DIV/0!,#DIV/0!,,,,,,,Collenette,4759,,,,,,,RBGE 2016,E00368135,,
+rf756,Cynomorium coccineum,,,,,,#DIV/0!,#DIV/0!,#DIV/0!,,,,,,,Abdullah,MTA581,,,,,,,RBGE 2016,E00678710,,
+rf757,Cynomorium coccineum,,,,,,#DIV/0!,#DIV/0!,#DIV/0!,,,,,,,McLeish,1641,,,,,,,RBGE 2016,E00121967,,
+rf275,Saxifraga signata,Submitted and sequenced poorly,,,3.43,3.49,3.46,425.58,Use whole sample,,,,,,,,,,,,,,,,,,
+rf307,Chrysosplenium macrophyllum,,,,3.83,3.97,3.9,479.7,Use whole sample,,,,,,,,,,,,,,,,,,
+rf755,Cynomorium coccineum,Submitted and sequenced poorly,,,38.3,38.4,38.35,4717.05,13.03780965,,,,,,,,,,,,,,,,,,
+rf756,Cynomorium coccineum,Submitted and sequenced poorly,,,160,162,161,19803,3.105590062,,,,,,,,,,,,,,,,,,
+rf757,Cynomorium coccineum,Submitted and sequenced poorly,,,182,183,182.5,22447.5,2.739726027,,,,,,,,,,,,,,,,,,
+rf426,Sedum multicaule,Submitted and sequenced poorly,,,2.99,3.08,3.035,373.305,Use whole sample,,,,,,,,,,,,,,,,,,
+rf441,Hylotelephium erythrostichum,Submitted and sequenced poorly,,,1.78,1.84,1.81,222.63,Use whole sample,,,,,,,,,,,,,,,,,,
+rf497,Saxifraga pseudopallida,Submitted and sequenced poorly,,,6.01,6.15,6.08,747.84,82.23684211,,,,,,,,,,,,,,,,,,
+rf506,Soyauxia gabonensis,Submitted and sequenced poorly,,,--,--,#DIV/0!,#DIV/0!,#DIV/0!,,,,,,,,,,,,,,,,,,
+rf16,Saxifraga aristulata,Submitted and sequenced well,,,2.14,3.97,3.055,375.765,Use whole sample,,,,,,,,,,,,,,,,,,
+rf38,Sedum rosulatum,Submitted and sequenced well,,,1.22,2.16,1.69,207.87,Use whole sample,,,,,,,,,,,,,,,,,,
+rf66,Itea riparia,Submitted and sequenced poorly,,,--,--,#DIV/0!,#DIV/0!,#DIV/0!,,,,,,,,,,,,,,,,,,
+rf72,Kalanchoe integra,Submitted and sequenced poorly,,,--,--,#DIV/0!,#DIV/0!,#DIV/0!,,,,,,,,,,,,,,,,,,
+rf77,Sedum oishii,Submitted and sequenced ok,,,--,1.08,1.08,132.84,Use whole sample,,,,,,,,,,,,,,,,,,
+rf79,Rhodiola elongata,Submitted and sequenced well,,,1.6,1.63,1.615,198.645,Use whole sample,,,,,,,,,,,,,,,,,,
+rf83,Saxifraga engleriana,Submitted and sequenced well,,,8.3,8.58,8.44,1038.12,59.24170616,,,,,,,,,,,,,,,,,,
+rf90,Saxifraga bergenoides,Submitted and sequenced well,,,13.8,14.8,14.3,1758.9,34.96503497,,,,,,,,,,,,,,,,,,
+rf91,Saxifraga nutans,Submitted and sequenced well,,,16.7,17.1,16.9,2078.7,29.58579882,,,,,,,,,,,,,,,,,,
+rf92,Saxifraga parva,Submitted and sequenced well,,,5.68,6.11,5.895,725.085,84.81764207,,,,,,,,,,,,,,,,,,
+rf94,Saxifraga sikkimensis,Submitted and sequenced well,,,22.1,22.9,22.5,2767.5,22.22222222,,,,,,,,,,,,,,,,,,
+rf96,Saxifraga stenophylla,Submitted and sequenced well,,,7.02,7.42,7.22,888.06,69.25207756,,,,,,,,,,,,,,,,,,
+rf97,Saxifraga jacquemontiana,Submitted and sequenced well,,,8.89,8.91,8.9,1094.7,56.17977528,,,,,,,,,,,,,,,,,,
+rf100,Saxifraga excellens,Submitted and sequenced well,,,45.9,49,47.45,5836.35,10.5374078,,,,,,,,,,,,,,,,,,
+rf101,Saxifraga glabricaulis,Submitted and sequenced well,,,16.2,18,17.1,2103.3,29.23976608,,,,,,,,,,,,,,,,,,
+rf104,Kalanchoe alternans,Submitted and sequenced well,,,5.5,8.62,7.06,868.38,70.82152975,,,,,,,,,,,,,,,,,,
+rf105,Kalanchoe lanceolata (yemensis?),Submitted and sequenced well,,,--,1.2,1.2,147.6,Use whole sample,,,,,,,,,,,,,,,,,,
+rf106,Kalanchoe velutina,Submitted and sequenced well,,,--,1.19,1.19,146.37,Use whole sample,,,,,,,,,,,,,,,,,,
+rf107,Kalanchoe flammea,Submitted and sequenced well,,,1.32,2.44,1.88,231.24,Use whole sample,,,,,,,,,,,,,,,,,,
+rf108,Kalanchoe bentii,Submitted and sequenced poorly,,,2.87,4.03,3.45,424.35,Use whole sample,,,,,,,,,,,,,,,,,,
+rf138,Rosularia libanotica,Submitted and sequenced poorly,,,--,1.59,1.59,195.57,Use whole sample,,,,,,,,,,,,,,,,,,
+rf156,Saxifraga afghanica,Submitted and sequenced poorly,,,14.7,21.9,18.3,2250.9,27.32240437,,,,,,,,,,,,,,,,,,
+rf178,Crassula globularioides,Submitted and sequenced poorly,,,10,14.7,12.35,1519.05,40.48582996,,,,,,,,,,,,,,,,,,
+rf753,Saxifraga aristulata,Submitted and sequenced poorly,,,6.02,8.44,7.23,889.29,69.15629322,,,,,,,,,,,,,,,,,,
+rf754,Sedum filipes,Submitted and sequenced poorly,,,1.99,3.36,2.675,329.025,Use whole sample,,,,,,,,,,,,,,,,,,
+A50-1,Heuchera caroliniana,,SC,,12.5,12.7,12.6,1549.8,39.68253968,,,,,,,,,,,,,34.993338,34.993338,,,,
+A50-2,Heuchera caroliniana,,SC,,18.8,19,18.9,2324.7,26.45502646,,,,,,,,,,,,,34.993338,34.993338,,,,
+A50-3,Heuchera caroliniana,,SC,,101,98.4,99.7,12263.1,5.015045135,,,,,,,,,,,,,34.993338,34.993338,,,,
+A50-4,Heuchera caroliniana,,SC,,14.3,13.8,14.05,1728.15,35.58718861,,,,,,,,,,,,,34.993338,34.993338,,,,
+A50-5,Heuchera caroliniana,,SC,,8.19,7.96,8.075,993.225,61.91950464,,,,,,,,,,,,,34.993338,34.993338,,,,
+A50-6,Heuchera caroliniana,,SC,,12.8,12.7,12.75,1568.25,39.21568627,,,,,,,,,,,,,34.993338,34.993338,,,,
+A50-7,Heuchera caroliniana,,SC,,12,11.8,11.9,1463.7,42.01680672,,,,,,,,,,,,,34.993338,34.993338,,,,
+A50-8,Heuchera caroliniana,,SC,,13.3,13.1,13.2,1623.6,37.87878788,,,,,,,,,,,,,34.993338,34.993338,,,,
+H100:3,Heuchera pubescens,,VA,,61.4,59.5,60.45,7435.35,8.271298594,,,,,,,,,,,,,36.8113889,-80.349722,,,,
+H100:4,Heuchera pubescens,,VA,,30.3,29.2,29.75,3659.25,16.80672269,,,,,,,,,,,,,36.8113889,-80.349722,,,,
+H100:5,Heuchera pubescens,,VA,,31.6,31.3,31.45,3868.35,15.89825119,,,,,,,,,,,,,36.8113889,-80.349722,,,,
+H100:6,Heuchera pubescens,,VA,,15.4,14.6,15,1845,33.33333333,,,,,,,,,,,,,36.8113889,-80.349722,,,,
+H100:7,Heuchera pubescens,,VA,,72.4,70.2,71.3,8769.9,7.012622721,,,,,,,,,,,,,36.8113889,-80.349722,,,,
+H100:8,Heuchera pubescens,,VA,,47.7,46.8,47.25,5811.75,10.58201058,,,,,,,,,,,,,36.8113889,-80.349722,,,,
+H100:9,Heuchera pubescens,,VA,,27.5,27.1,27.3,3357.9,18.31501832,,,,,,,,,,,,,36.8113889,-80.349722,,,,
+H100:10,Heuchera pubescens,,VA,,32.3,32,32.15,3954.45,15.55209953,,,,,,,,,,,,,36.8113889,-80.349722,,,,
+rf758,Penthorum sedoides,,,,10.6,10.4,10.5,1291.5,47.61904762,,,,,,MISSA035023,Folk,305,,,,,,,MISSA,,,
+rf759,Hamamelis virginiana,,,,0.242,0.227,0.2345,28.8435,Use whole sample,,,,,,MISSA015373,Demaree,68805,,,,,,,MISSA,,,
+rf760,Proserpinaca pectinata,,,,0.067,0.062,0.0645,7.9335,Use whole sample,,,,,,MISSA031906,Schuster,A-3874,,,,,,,MISSA,,,
+A51-1,Heuchera longiflora var. longiflora,,,,6.77,6.88,6.825,839.475,73.26007326,,,,,,,,,,,,,37.826965,-83.630257,,,,
+A52-1,Tiarella cordifolia,,,,19.1,19.2,19.15,2355.45,26.10966057,,,,,,,,,,,,,37.830483,-83.601925,,,,
+A53-1,Heuchera americana var. calycosa,,AL,,28.2,28.3,28.25,3474.75,17.69911504,,,,,,,,,,,,,33.693964,-85.55944,,,,
+A53-2,Heuchera americana var. calycosa,,AL,,11.2,11.4,11.3,1389.9,44.24778761,,,,,,,,,,,,,33.693964,-85.55944,,,,
+A53-3,Heuchera americana var. calycosa,,AL,,21.4,21.4,21.4,2632.2,23.36448598,,,,,,,,,,,,,33.693964,-85.55944,,,,
+A53-4,Heuchera americana var. calycosa,,AL,,11.1,11.2,11.15,1371.45,44.84304933,,,,,,,,,,,,,33.693964,-85.55944,,,,
+A53-5,Heuchera americana var. calycosa,,AL,,11.3,11.4,11.35,1396.05,44.05286344,,,,,,,,,,,,,33.693964,-85.55944,,,,
+A53-6,Heuchera americana var. calycosa,,AL,,12.9,12.8,12.85,1580.55,38.91050584,,,,,,,,,,,,,33.693964,-85.55944,,,,
+A53-7,Heuchera americana var. calycosa,,AL,,11.6,11.7,11.65,1432.95,42.91845494,,,,,,,,,,,,,33.693964,-85.55944,,,,
+A53-8,Heuchera americana var. calycosa,,AL,,10.3,10.3,10.3,1266.9,48.54368932,,,,,,,,,,,,,33.693964,-85.55944,,,,
+A53-9,Heuchera americana var. calycosa,,AL,,13.2,13.2,13.2,1623.6,37.87878788,,,,,,,,,,,,,33.693964,-85.55944,,,,
+A53-10,Heuchera americana var. calycosa,,AL,,17,17,17,2091,29.41176471,,,,,,,,,,,,,33.693964,-85.55944,,,,
+A54-1,Heuchera americana var. calycosa,,AL,,8.04,7.91,7.975,980.925,62.69592476,,,,,,,,,,,,,33.369119,-86.659483,,,,
+A54-2,Heuchera americana var. calycosa,,AL,,7.32,7.36,7.34,902.82,68.11989101,,,,,,,,,,,,,33.369119,-86.659483,,,,
+A54-3,Heuchera americana var. calycosa,,AL,,7.19,7.19,7.19,884.37,69.54102921,,,,,,,,,,,,,33.369119,-86.659483,,,,
+A55-1,,,,,8.33,8.55,8.44,1038.12,59.24170616,,,,,,,,,,,,,35.0996176,-84.555909,,,,
+A55-2,,,,,5.62,5.65,5.635,693.105,88.73114463,,,,,,,,,,,,,35.0996176,-84.555909,,,,
+A55-3,,,,,5.05,4.83,4.94,607.62,101.2145749,,,,,,,,,,,,,35.0996176,-84.555909,,,,
+A55-4,,,,,6,5.39,5.695,700.485,87.79631255,,,,,,,,,,,,,35.0996176,-84.555909,,,,
+A55-5,,,,,3.32,3.35,3.335,410.205,Use whole sample,,,,,,,,,,,,,35.0996176,-84.555909,,,,
+A55-6,,,,,12.4,12.5,12.45,1531.35,40.16064257,,,,,,,,,,,,,35.0996176,-84.555909,,,,
+A56-1,,,,,7.82,7.88,7.85,965.55,63.69426752,,,,,,,,,,,,,35.1230527,-83.9898227,,,,
+A56-2,,,,,6.56,6.65,6.605,812.415,75.7002271,,,,,,,,,,,,,35.1230527,-83.9898227,,,,
+A56-3,,,,,5.83,5.82,5.825,716.475,85.83690987,,,,,,,,,,,,,35.1230527,-83.9898227,,,,
+A56-4,,,,,5.39,5.41,5.4,664.2,92.59259259,,,,,,,,,,,,,35.1230527,-83.9898227,,,,
+A56-5,,,,,9.75,9.15,9.45,1162.35,52.91005291,,,,,,,,,,,,,35.1230527,-83.9898227,,,,
+A56-6,,,,,6.35,6.35,6.35,781.05,78.74015748,,,,,,,,,,,,,35.1230527,-83.9898227,,,,
+A56-7,,,,,9.49,9.62,9.555,1175.265,52.32862376,,,,,,,,,,,,,35.1230527,-83.9898227,,,,
+A57,,,,,6.12,5.97,6.045,743.535,82.71298594,,,,,,,,,,,,,35.4648505,-83.4335309,,,,
+A58-1,,,,,13.9,13.9,13.9,1709.7,35.97122302,,,,,,,,,,,,,35.248278,-83.086306,,,"35°14'53.8"" N","83°5'10.7"" W"
+A58-2,,,,,9.13,9.14,9.135,1123.605,54.73453749,,,,,,,,,,,,,35.248278,-83.086306,,,,
+A58-3,,,,,9.93,9.68,9.805,1206.015,50.99439062,,,,,,,,,,,,,35.248278,-83.086306,,,,
+A58-4,,,,,10.3,10.2,10.25,1260.75,48.7804878,,,,,,,,,,,,,35.248278,-83.086306,,,,
+A59-1,,,,,10.3,10.3,10.3,1266.9,48.54368932,,,,,,,,,,,,,35.735357,-82.116329,,,,
+A59-2,,,,,10.1,10.1,10.1,1242.3,49.5049505,,,,,,,,,,,,,35.735357,-82.116329,,,,
+A59-3,,,,,6.61,6.71,6.66,819.18,75.07507508,,,,,,,,,,,,,35.735357,-82.116329,,,,
+A59-4,,,,,8.11,7.88,7.995,983.385,62.53908693,,,,,,,,,,,,,35.735357,-82.116329,,,,
+A59-5,,,,,6.34,5.88,6.11,751.53,81.83306056,,,,,,,,,,,,,35.735357,-82.116329,,,,
+A59-6,,,,,9.81,9.41,9.61,1182.03,52.02913632,,,,,,,,,,,,,35.735357,-82.116329,,,,
+A59-7,,,,,6.32,6.01,6.165,758.295,81.10300081,,,,,,,,,,,,,35.735357,-82.116329,,,,
+A59-8,,,,,14.5,14.1,14.3,1758.9,34.96503497,,,,,,,,,,,,,35.735357,-82.116329,,,,
+A59-9,,,,,19.2,19,19.1,2349.3,26.17801047,,,,,,,,,,,,,35.735357,-82.116329,,,,
+A60-1,,,,,13.5,13.5,13.5,1660.5,37.03703704,,,,,,,,,,,,,35.966166,-81.1144923,,,,
+A60-2,,,,,12.9,12.4,12.65,1555.95,39.5256917,,,,,,,,,,,,,35.966166,-81.1144923,,,,
+A60-3,,,,,17.2,17.2,17.2,2115.6,29.06976744,,,,,,,,,,,,,35.966166,-81.1144923,,,,
+A60-4,,,,,11.2,11.1,11.15,1371.45,44.84304933,,,,,,,,,,,,,35.966166,-81.1144923,,,,
+A61-1,,,,,7.08,6.99,7.035,865.305,71.0732054,,,,,,,,,,,,,35.767194,-83.101722,,,"35°46'01.9"" N","83°06'06.2"" W"
+A61-2,,,,,12.1,12,12.05,1482.15,41.49377593,,,,,,,,,,,,,35.767194,-83.101722,,,,
+A61-3,,,,,11,11,11,1353,45.45454545,,,,,,,,,,,,,35.767194,-83.101722,,,,
+A61-4,,,,,18.3,18.6,18.45,2269.35,27.100271,,,,,,,,,,,,,35.767194,-83.101722,,,,
+A61-5,,,,,8.68,8.56,8.62,1060.26,58.00464037,,,,,,,,,,,,,35.767194,-83.101722,,,,
+A61-6,,,,,7.15,7.07,7.11,874.53,70.32348805,,,,,,,,,,,,,35.767194,-83.101722,,,,
+A61-7,,,,,8.7,8.47,8.585,1055.955,58.24111823,,,,,,,,,,,,,35.767194,-83.101722,,,,
+A61-8,,,,,9.08,8.95,9.015,1108.845,55.46311703,,,,,,,,,,,,,35.767194,-83.101722,,,,
+A61-9,,,,,14.1,14,14.05,1728.15,35.58718861,,,,,,,,,,,,,35.767194,-83.101722,,,,
+A62-1,,,,,8.43,8.21,8.32,1023.36,60.09615385,,,,,,,,,,,,,35.695778,-83.389556,,,"35°41'44.8"" N","83°23'22.4"" W"
+A62-2,,,,,11.1,10.7,10.9,1340.7,45.87155963,,,,,,,,,,,,,35.695778,-83.389556,,,,
+A62-3,,,,,9.46,9.06,9.26,1138.98,53.99568035,,,,,,,,,,,,,35.695778,-83.389556,,,,
+A63-1,,,,,4.84,4.81,4.825,593.475,103.626943,,,,,,,,,,,,,35.695778,-83.389556,,,,
+A63-2,,,,,3.06,3.03,3.045,374.535,Use whole sample,,,,,,,,,,,,,35.695778,-83.389556,,,,
+A63-3,,,,,5.21,4.98,5.095,626.685,98.13542689,,,,,,,,,,,,,35.695778,-83.389556,,,,
+A63-4,,,,,15.8,15.6,15.7,1931.1,31.84713376,,,,,,,,,,,,,35.695778,-83.389556,,,,
+A63-5,,,,,12.3,12.1,12.2,1500.6,40.98360656,,,,,,,,,,,,,35.695778,-83.389556,,,,
+A63-6,,,,,8.62,8.59,8.605,1058.415,58.10575247,,,,,,,,,,,,,35.695778,-83.389556,,,,
+A63-7,,,,,20.7,20.1,20.4,2509.2,24.50980392,,,,,,,,,,,,,35.695778,-83.389556,,,,
+A63-8,,,,,9.47,9.43,9.45,1162.35,52.91005291,,,,,,,,,,,,,35.695778,-83.389556,,,,
+A63-9,,,,,9.67,9.46,9.565,1176.495,52.27391532,,,,,,,,,,,,,35.695778,-83.389556,,,,
+A63-10,,,,,11.8,11.6,11.7,1439.1,42.73504274,,,,,,,,,,,,,35.695778,-83.389556,,,,
+A64-1,,,,,19.3,20.4,19.85,2441.55,25.18891688,,,,,,,,,,,,,46.68479,-92.232668,,,,
+A64-2,,,,,12.8,12.9,12.85,1580.55,38.91050584,,,,,,,,,,,,,46.68479,-92.232668,,,,
+A64-3,,,,,22.1,22.6,22.35,2749.05,22.37136465,,,,,,,,,,,,,46.68479,-92.232668,,,,
+A64-4,,,,,14,14.4,14.2,1746.6,35.21126761,,,,,,,,,,,,,46.68479,-92.232668,,,,
+A64-5,,,,,26.6,27,26.8,3296.4,18.65671642,,,,,,,,,,,,,46.68479,-92.232668,,,,
+A64-6,,,,,21.7,21.8,21.75,2675.25,22.98850575,,,,,,,,,,,,,46.68479,-92.232668,,,,
+A64-7,,,,,29.8,30,29.9,3677.7,16.72240803,,,,,,,,,,,,,46.68479,-92.232668,,,,
+A64-8,,,,,26.7,26.9,26.8,3296.4,18.65671642,,,,,,,,,,,,,46.68479,-92.232668,,,,
+A64-9,,,,,19.5,19.6,19.55,2404.65,25.57544757,,,,,,,,,,,,,46.68479,-92.232668,,,,
+A64-10,,,,,20.8,21.1,20.95,2576.85,23.86634845,,,,,,,,,,,,,46.68479,-92.232668,,,,
