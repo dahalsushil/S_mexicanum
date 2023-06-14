@@ -117,6 +117,29 @@ shapiro_test(residuals(model14))
 library(pairwiseAdonis)
 pairwise.adonis(combined_subset[,c("phyllary_length", "phyllary_width", "primary_axis_leaf_length", "primary_axis_leaf_width", "secondary_axis_leaf_length", "secondary_axis_leaf_width", "bract_length", "bract_width", "auricle_length", "petiole_length", "primary_axis_hair_length", "below_capitulum_hair_length",  "ray_length", "ray_width")], combined_subset$species, sim.method = "euclidean", p.adjust.m = "hochberg", perm = 10000)
 
+
+# Build the discriminant symphyotrichum expansum_1 and Symphyotrichum expansum_2 only
+combined.reduced <- combined.nonnormalized[combined.nonnormalized$species == 'Symphyotrichum expansum_1' | combined.nonnormalized$species == 'Symphyotrichum expansum_2',]
+combined.reduced$species <- droplevels(combined.reduced$species) # Drop empty levels
+combined.reduced$species = factor(combined.reduced$species, labels = gsub("Symphyotrichum ", "S.", levels(combined.reduced$species)))
+
+# removed 4 variables invariant in groups (#9 to 12)
+discriminant <- lda(species ~ phyllary_length + phyllary_width + primary_axis_leaf_length + primary_axis_leaf_width + secondary_axis_leaf_length + secondary_axis_leaf_width + bract_length + bract_width + ray_length + ray_width, data = combined.reduced, na.action="na.omit")
+discriminant.jackknife <- lda(species ~ phyllary_length + phyllary_width + primary_axis_leaf_length + primary_axis_leaf_width + secondary_axis_leaf_length + secondary_axis_leaf_width + bract_length + bract_width + ray_length + ray_width, data = combined.reduced, na.action="na.omit", CV = TRUE)
+ct <- table(combined.reduced$species, discriminant.jackknife$class)
+sum(diag(prop.table(ct)))
+discriminant.prediction <- predict(discriminant)
+
+plotdata <- data.frame(type = combined.reduced$species, lda = discriminant.prediction$x)
+ggplot(plotdata, aes(y = LD1, x = type)) + geom_boxplot() + ylab("LD1") + theme(axis.text.x = element_text(angle = 45))
+
+# Investigate which measurements best distinguish expansum_1 and expansum_2
+# Use all variables this time
+res.man <- manova(cbind(phyllary_length, phyllary_width, primary_axis_leaf_length, primary_axis_leaf_width, secondary_axis_leaf_length, secondary_axis_leaf_width, bract_length, bract_width, ray_length, ray_width) ~ species, data = combined.reduced)
+summary(res.man)
+summary.aov(res.man)
+
+
 # Univariate boxplots
 
 p1 <- ggplot(combined.reduced, aes(y=phyllary_length, x=species)) + geom_boxplot() + xlab("") + ylab("phyllary_length (mm)") + theme(axis.text.x = element_text(angle = 45))
