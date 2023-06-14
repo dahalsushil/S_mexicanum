@@ -146,22 +146,6 @@ shapiro_test(residuals(model11))
 shapiro_test(residuals(model12))
 shapiro_test(residuals(model13))
 shapiro_test(residuals(model14))
-
-# Homogneity of variance assumption
-plot(model1, 1)
-plot(model2, 1)
-plot(model3, 1)
-plot(model4, 1)
-plot(model5, 1)
-plot(model6, 1)
-plot(model7, 1)
-plot(model8, 1)
-plot(model9, 1)
-plot(model10, 1)
-plot(model11, 1)
-plot(model12, 1)
-plot(model13, 1)
-plot(model14, 1)
 #########################
 
 # Assess SPECIES pairwise significance 
