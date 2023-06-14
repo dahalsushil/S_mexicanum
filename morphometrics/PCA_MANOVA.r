@@ -3,7 +3,7 @@ library(tidyverse)
 library(ggpubr)
 library(rstatix)
 
-combined <- read.csv("Symphyotrichum_morphometrics.csv", header = TRUE)
+combined <- read.csv("Symphyotrichum_morphometrics_final.csv", header = TRUE)
 combined$specimen_number <- NULL
 combined$notes <- NULL
 combined[combined == "n/a"] <- NA
@@ -22,48 +22,10 @@ combined.nonnormalized <- combined
 combined <- rapply(combined,scale,c("numeric","integer"),how="replace")
 
 #################################
-## Species analysis
-#################################
-
-# Build the discriminant
-library(MASS)
-discriminant <- lda(species ~ phyllary_length + phyllary_width + primary_axis_leaf_length + primary_axis_leaf_width + secondary_axis_leaf_length + secondary_axis_leaf_width + bract_length + bract_width + auricle_length + petiole_length + primary_axis_hair_length + below_capitulum_hair_length + ray_length + ray_width, data = combined, na.action="na.omit")
-
-# Classification success
-discriminant.jackknife <- lda(species ~ phyllary_length + phyllary_width + primary_axis_leaf_length + primary_axis_leaf_width + secondary_axis_leaf_length + secondary_axis_leaf_width + bract_length + bract_width + auricle_length + petiole_length + primary_axis_hair_length + below_capitulum_hair_length + ray_length + ray_width, data = combined, na.action="na.omit", CV = TRUE)
-ct <- table(combined$species, discriminant.jackknife$class)
-sum(diag(prop.table(ct)))
-
-# Predict species by the discriminant function
-discriminant.prediction <- predict(discriminant)
-
-# Create dataframe for plotting
-plotdata <- data.frame(type = combined$species, lda = discriminant.prediction$x)
-
-library(ggplot2)
-ggplot(plotdata) + geom_point(aes(lda.LD1, lda.LD2, colour = type), size = 2.5)
-
-
-# Multivariate MANOVA
-  
-res.man <- manova(cbind(phyllary_length, phyllary_width, primary_axis_leaf_length, primary_axis_leaf_width, secondary_axis_leaf_length, secondary_axis_leaf_width, bract_length, bract_width, auricle_length, petiole_length, primary_axis_hair_length, below_capitulum_hair_length, ray_length, ray_width) ~ species, data = combined)
-summary(res.man)
-
-# Break down variable importance
-summary.aov(res.man)
-
-# Assess SPECIES pairwise significance 
-# You must drop perfectly correlated values or you will get a rank deficiency error
-#library(devtools)
-#install_github("pmartinezarbizu/pairwiseAdonis/pairwiseAdonis")
-library(pairwiseAdonis)
-pairwise.adonis(combined[,c("phyllary_length", "phyllary_width", "primary_axis_leaf_length", "primary_axis_leaf_width", "secondary_axis_leaf_length", "secondary_axis_leaf_width", "bract_length", "bract_width", "auricle_length", "petiole_length", "primary_axis_hair_length", "below_capitulum_hair_length",  "ray_length", "ray_width")], combined$species, sim.method = "euclidean", p.adjust.m = "hochberg", perm = 10000)
-
-#################################
 ## Subset analysis- subgenus Astropolium
 #################################
 subgenus_astropolium <- c("Symphyotrichum glabrifolium", "Symphyotrichum graminifolium", "Symphyotrichum martii", "Symphyotrichum patagonicum", "Symphyotrichum peteroanum", "Symphyotrichum potosinum", "Symphyotrichum regnelli", "Symphyotrichum subulatum", "Symphyotrichum tenuifolium", "Symphyotrichum vahlii", "Symphyotrichum divaricatum", "Symphyotrichum subulatum var. squamatum", "Symphyotrichum expansum", "Symphyotrichum bahamense", "Symphyotrichum squamatum")
-subgenus_astropolium_main <- c("Symphyotrichum subulatum", "Symphyotrichum tenuifolium", "Symphyotrichum divaricatum", "Symphyotrichum subulatum var. squamatum", "Symphyotrichum expansum", "Symphyotrichum bahamense", "Symphyotrichum squamatum")
+subgenus_astropolium_main <- c("Symphyotrichum subulatum", "Symphyotrichum tenuifolium", "Symphyotrichum divaricatum", "Symphyotrichum subulatum var. squamatum", "Symphyotrichum expansum_1","Symphyotrichum expansum_2", "Symphyotrichum bahamense", "Symphyotrichum squamatum")
 
 combined_subset <- combined[combined$species %in% subgenus_astropolium_main,]
 combined_subset$species <- as.factor(as.character(combined_subset$species))
