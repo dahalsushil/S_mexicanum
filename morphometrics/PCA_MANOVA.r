@@ -1,4 +1,7 @@
 library(dplyr)
+library(tidyverse)
+library(ggpubr)
+library(rstatix)
 
 combined <- read.csv("Symphyotrichum_morphometrics.csv", header = TRUE)
 combined$specimen_number <- NULL
@@ -40,7 +43,9 @@ plotdata <- data.frame(type = combined$species, lda = discriminant.prediction$x)
 library(ggplot2)
 ggplot(plotdata) + geom_point(aes(lda.LD1, lda.LD2, colour = type), size = 2.5)
 
+
 # Multivariate MANOVA
+  
 res.man <- manova(cbind(phyllary_length, phyllary_width, primary_axis_leaf_length, primary_axis_leaf_width, secondary_axis_leaf_length, secondary_axis_leaf_width, bract_length, bract_width, auricle_length, petiole_length, primary_axis_hair_length, below_capitulum_hair_length, ray_length, ray_width) ~ species, data = combined)
 summary(res.man)
 
@@ -87,6 +92,77 @@ summary(res.man)
 
 # Break down variable importance
 summary.aov(res.man)
+
+######################################
+#Check assumptions for MANOVA
+######################################
+#Build the linear model
+model1  <- lm(phyllary_length ~ species, data = combined_subset)
+model2  <- lm(phyllary_width ~ species, data = combined_subset)
+model3  <- lm(primary_axis_leaf_length ~ species, data = combined_subset)
+model4  <- lm(primary_axis_leaf_width ~ species, data = combined_subset)
+model5  <- lm(secondary_axis_leaf_length ~ species, data = combined_subset)
+model6  <- lm(secondary_axis_leaf_width ~ species, data = combined_subset)
+model7  <- lm(bract_length ~ species, data = combined_subset)
+model8  <- lm(bract_width ~ species, data = combined_subset)
+model9  <- lm(auricle_length ~ species, data = combined_subset)
+model10  <- lm(petiole_length ~ species, data = combined_subset)
+model11 <- lm(primary_axis_hair_length ~ species, data = combined_subset)
+model12  <- lm(below_capitulum_hair_length ~ species, data = combined_subset)
+model13  <- lm(ray_length ~ species, data = combined_subset)
+model14  <- lm(ray_width ~ species, data = combined_subset)
+
+####### Create a QQ plot of residuals
+qq1 <- ggqqplot(residuals(model1))
+qq2 <- ggqqplot(residuals(model2))
+qq3 <- ggqqplot(residuals(model3))
+qq4 <- ggqqplot(residuals(model4))
+qq5 <- ggqqplot(residuals(model5))
+qq6 <- ggqqplot(residuals(model6))
+qq7 <- ggqqplot(residuals(model7))
+qq8 <- ggqqplot(residuals(model8))
+qq9 <- ggqqplot(residuals(model9))
+qq10 <- ggqqplot(residuals(model10))
+qq11 <- ggqqplot(residuals(model11))
+qq12 <- ggqqplot(residuals(model12))
+qq13 <- ggqqplot(residuals(model13))
+qq14 <- ggqqplot(residuals(model14))
+
+library(gridExtra)
+grid.arrange(qq1, qq2, qq3, qq4, qq5, qq6, qq7, qq8, qq9, qq10, qq11, qq12, qq13, qq14, nrow = 3)
+
+# Compute Shapiro-Wilk test of normality
+shapiro_test(residuals(model1)) 
+shapiro_test(residuals(model2))
+shapiro_test(residuals(model3))
+shapiro_test(residuals(model4))
+shapiro_test(residuals(model5))
+shapiro_test(residuals(model6))
+shapiro_test(residuals(model7))
+shapiro_test(residuals(model8))
+shapiro_test(residuals(model9))
+shapiro_test(residuals(model10))
+shapiro_test(residuals(model11))
+shapiro_test(residuals(model12))
+shapiro_test(residuals(model13))
+shapiro_test(residuals(model14))
+
+# Homogneity of variance assumption
+plot(model1, 1)
+plot(model2, 1)
+plot(model3, 1)
+plot(model4, 1)
+plot(model5, 1)
+plot(model6, 1)
+plot(model7, 1)
+plot(model8, 1)
+plot(model9, 1)
+plot(model10, 1)
+plot(model11, 1)
+plot(model12, 1)
+plot(model13, 1)
+plot(model14, 1)
+#########################
 
 # Assess SPECIES pairwise significance 
 # You must drop perfectly correlated values or you will get a rank deficiency error
