@@ -1,7 +1,4 @@
 library(dplyr)
-library(tidyverse)
-library(ggpubr)
-library(rstatix)
 
 combined <- read.csv("Symphyotrichum_morphometrics_final.csv", header = TRUE)
 combined$specimen_number <- NULL
