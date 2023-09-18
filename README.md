@@ -9,7 +9,7 @@ This includes the shell scripts to clean the sequencing data, doing the alignmen
   astral.astropolium.renamed 2.tre ASTRAL result
   astropolium.raxml.support.renamed 2.tre RAxML result
   symphyo_add_county_state.sh Shell script to add county and state to each species
-  Code/Software
 
+Code/Software
 RStudio, Bash
 
